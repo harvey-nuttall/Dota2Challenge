@@ -426,7 +426,8 @@
     "8673088368": true,
     "8673131638": true,
     "8673148302": true,
-    "8673174967": true
+    "8673174967": true,
+    "8673670587": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1804,7 +1805,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -91,
+      "total_points": -90,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -2575,6 +2576,23 @@
             {
               "name": "Speedrunner Vibes: <25m Win",
               "points": 3
+            }
+          ]
+        },
+        "8673670587": {
+          "date": "2026-02-01 16:10 UTC",
+          "hero": "Lich",
+          "kda": "6/18/25",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 27400,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -8416,6 +8434,17 @@
       }
     ],
     "8673148302": [],
-    "8673174967": []
+    "8673174967": [],
+    "8673670587": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8673670587,
+        "hero": "Lich",
+        "kda": "6/18/25",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-01T16:10:37+00:00"
+      }
+    ]
   }
 }
