@@ -422,7 +422,8 @@
     "8672388178": true,
     "8672528690": true,
     "8672564115": true,
-    "8673020709": true
+    "8673020709": true,
+    "8673088368": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4140,7 +4141,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 71,
+      "total_points": 77,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -4702,6 +4703,27 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8673088368": {
+          "date": "2026-02-01 09:39 UTC",
+          "hero": "Razor",
+          "kda": "15/3/15",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 47689,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -8341,6 +8363,26 @@
     "8672388178": [],
     "8672528690": [],
     "8672564115": [],
-    "8673020709": []
+    "8673020709": [],
+    "8673088368": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8673088368,
+        "hero": "Razor",
+        "kda": "15/3/15",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-01T09:39:02+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8673088368,
+        "hero": "Razor",
+        "kda": "15/3/15",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-01T09:39:02+00:00"
+      }
+    ]
   }
 }
