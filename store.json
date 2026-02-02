@@ -433,7 +433,11 @@
     "8673913053": true,
     "8674172543": true,
     "8674126977": true,
-    "8674521971": true
+    "8674521971": true,
+    "8674676799": true,
+    "8674612992": true,
+    "8674607667": true,
+    "8674561260": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3762,7 +3766,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -12,
+      "total_points": -11,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -4013,6 +4017,23 @@
             "I.C.B.M"
           ],
           "damage": 9100,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8674612992": {
+          "date": "2026-02-02 11:29 UTC",
+          "hero": "Omniknight",
+          "kda": "6/8/30",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 11466,
           "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
@@ -8621,6 +8642,20 @@
         "points": -1,
         "timestamp": "2026-02-02T09:50:41+00:00"
       }
-    ]
+    ],
+    "8674676799": [],
+    "8674612992": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8674612992,
+        "hero": "Omniknight",
+        "kda": "6/8/30",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-02T11:29:51+00:00"
+      }
+    ],
+    "8674607667": [],
+    "8674561260": []
   }
 }
