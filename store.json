@@ -439,7 +439,8 @@
     "8674607667": true,
     "8674561260": true,
     "8674724329": true,
-    "8674792709": true
+    "8674792709": true,
+    "8674868486": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3768,7 +3769,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -17,
+      "total_points": -18,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -4074,6 +4075,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8674868486": {
+          "date": "2026-02-02 14:37 UTC",
+          "hero": "Techies",
+          "kda": "7/16/15",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 34425,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -8713,6 +8731,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-02T13:47:27+00:00"
+      }
+    ],
+    "8674868486": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8674868486,
+        "hero": "Techies",
+        "kda": "7/16/15",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-02T14:37:41+00:00"
       }
     ]
   }
