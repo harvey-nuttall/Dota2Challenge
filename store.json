@@ -453,7 +453,8 @@
     "8676393528": true,
     "8676450290": true,
     "8676543004": true,
-    "8676620625": true
+    "8676620625": true,
+    "8676662742": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4488,7 +4489,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 82,
+      "total_points": 83,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5090,6 +5091,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8676662742": {
+          "date": "2026-02-03 22:00 UTC",
+          "hero": "Razor",
+          "kda": "5/7/12",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 16993,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -8975,6 +8993,17 @@
       }
     ],
     "8676543004": [],
-    "8676620625": []
+    "8676620625": [],
+    "8676662742": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8676662742,
+        "hero": "Razor",
+        "kda": "5/7/12",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-03T22:00:36+00:00"
+      }
+    ]
   }
 }
