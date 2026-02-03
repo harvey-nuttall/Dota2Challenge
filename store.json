@@ -449,7 +449,8 @@
     "8675283509": true,
     "8675533178": true,
     "8675912015": true,
-    "8675963696": true
+    "8675963696": true,
+    "8676393528": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4463,7 +4464,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 77,
+      "total_points": 82,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5046,6 +5047,25 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8676393528": {
+          "date": "2026-02-03 17:36 UTC",
+          "hero": "Legion Commander",
+          "kda": "19/4/16",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Matt",
+            "Smithy",
+            "Sssmookin"
+          ],
+          "damage": 30577,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -8898,6 +8918,17 @@
         "timestamp": "2026-02-03T11:45:06+00:00"
       }
     ],
-    "8675963696": []
+    "8675963696": [],
+    "8676393528": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8676393528,
+        "hero": "Legion Commander",
+        "kda": "19/4/16",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-03T17:36:56+00:00"
+      }
+    ]
   }
 }
