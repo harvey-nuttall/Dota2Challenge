@@ -457,7 +457,9 @@
     "8676662742": true,
     "8677298183": true,
     "8677387137": true,
-    "8677460443": true
+    "8677460443": true,
+    "8677526625": true,
+    "8677538138": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3648,7 +3650,7 @@
     },
     "46243750": {
       "name": "Pet poo bum bum boy",
-      "total_points": 34,
+      "total_points": 39,
       "matches": {
         "8651716538": {
           "date": "2026-01-16 16:56 UTC",
@@ -3884,6 +3886,23 @@
             "Pet poo bum bum boy"
           ],
           "damage": 52769,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8677526625": {
+          "date": "2026-02-04 15:55 UTC",
+          "hero": "Phoenix",
+          "kda": "18/3/13",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Pet poo bum bum boy"
+          ],
+          "damage": 30427,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -9010,6 +9029,18 @@
     ],
     "8677298183": [],
     "8677387137": [],
-    "8677460443": []
+    "8677460443": [],
+    "8677526625": [
+      {
+        "steam_id": 46243750,
+        "match_id": 8677526625,
+        "hero": "Phoenix",
+        "kda": "18/3/13",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-04T15:55:32+00:00"
+      }
+    ],
+    "8677538138": []
   }
 }
