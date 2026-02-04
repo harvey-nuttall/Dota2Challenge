@@ -459,7 +459,8 @@
     "8677387137": true,
     "8677460443": true,
     "8677526625": true,
-    "8677538138": true
+    "8677538138": true,
+    "8677601950": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3127,7 +3128,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 36,
+      "total_points": 41,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3643,6 +3644,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8677601950": {
+          "date": "2026-02-04 16:52 UTC",
+          "hero": "Drow Ranger",
+          "kda": "17/6/9",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 39448,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -9041,6 +9059,17 @@
         "timestamp": "2026-02-04T15:55:32+00:00"
       }
     ],
-    "8677538138": []
+    "8677538138": [],
+    "8677601950": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8677601950,
+        "hero": "Drow Ranger",
+        "kda": "17/6/9",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-04T16:52:47+00:00"
+      }
+    ]
   }
 }
