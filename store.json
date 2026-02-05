@@ -468,7 +468,8 @@
     "8678970531": true,
     "8678941324": true,
     "8678952931": true,
-    "8679023417": true
+    "8679023417": true,
+    "8679067511": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1846,7 +1847,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -121,
+      "total_points": -124,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -2760,6 +2761,24 @@
             {
               "name": "The Spectator (0 Kills)",
               "points": -20
+            }
+          ]
+        },
+        "8679067511": {
+          "date": "2026-02-05 19:39 UTC",
+          "hero": "Winter Wyvern",
+          "kda": "8/10/17",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Sssmookin"
+          ],
+          "damage": 20837,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -4598,7 +4617,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 83,
+      "total_points": 80,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5217,6 +5236,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8679067511": {
+          "date": "2026-02-05 19:39 UTC",
+          "hero": "Legion Commander",
+          "kda": "6/9/19",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Sssmookin"
+          ],
+          "damage": 31833,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -9193,6 +9230,26 @@
         "name": "The Spectator (0 Kills)",
         "points": -20,
         "timestamp": "2026-02-05T19:00:04+00:00"
+      }
+    ],
+    "8679067511": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8679067511,
+        "hero": "Legion Commander",
+        "kda": "6/9/19",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-05T19:39:25+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8679067511,
+        "hero": "Winter Wyvern",
+        "kda": "8/10/17",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-05T19:39:25+00:00"
       }
     ]
   }
