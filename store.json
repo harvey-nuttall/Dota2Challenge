@@ -467,7 +467,8 @@
     "8678587637": true,
     "8678970531": true,
     "8678941324": true,
-    "8678952931": true
+    "8678952931": true,
+    "8679023417": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1845,7 +1846,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -98,
+      "total_points": -121,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -2739,6 +2740,28 @@
               "points": -3
             }
           ]
+        },
+        "8679023417": {
+          "date": "2026-02-05 19:00 UTC",
+          "hero": "Lich",
+          "kda": "0/15/11",
+          "win": false,
+          "points": -23,
+          "friends_in_match": [
+            "Sssmookin",
+            "Big D Digby"
+          ],
+          "damage": 16459,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "The Spectator (0 Kills)",
+              "points": -20
+            }
+          ]
         }
       }
     },
@@ -2881,7 +2904,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -6,
+      "total_points": -29,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3128,6 +3151,28 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8679023417": {
+          "date": "2026-02-05 19:00 UTC",
+          "hero": "Arc Warden",
+          "kda": "0/12/5",
+          "win": false,
+          "points": -23,
+          "friends_in_match": [
+            "Sssmookin",
+            "Big D Digby"
+          ],
+          "damage": 12890,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "The Spectator (0 Kills)",
+              "points": -20
             }
           ]
         }
@@ -9111,6 +9156,44 @@
     "8678587637": [],
     "8678970531": [],
     "8678941324": [],
-    "8678952931": []
+    "8678952931": [],
+    "8679023417": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8679023417,
+        "hero": "Lich",
+        "kda": "0/15/11",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-05T19:00:04+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8679023417,
+        "hero": "Lich",
+        "kda": "0/15/11",
+        "name": "The Spectator (0 Kills)",
+        "points": -20,
+        "timestamp": "2026-02-05T19:00:04+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8679023417,
+        "hero": "Arc Warden",
+        "kda": "0/12/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-05T19:00:04+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8679023417,
+        "hero": "Arc Warden",
+        "kda": "0/12/5",
+        "name": "The Spectator (0 Kills)",
+        "points": -20,
+        "timestamp": "2026-02-05T19:00:04+00:00"
+      }
+    ]
   }
 }
