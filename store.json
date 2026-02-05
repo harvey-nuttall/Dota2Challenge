@@ -472,7 +472,8 @@
     "8679067511": true,
     "8679185264": true,
     "8679070074": true,
-    "8679165192": true
+    "8679165192": true,
+    "8679199910": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3202,7 +3203,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 51,
+      "total_points": 52,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3769,6 +3770,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8679199910": {
+          "date": "2026-02-05 22:10 UTC",
+          "hero": "Morphling",
+          "kda": "12/3/18",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 37071,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -9284,6 +9302,17 @@
         "timestamp": "2026-02-05T19:41:40+00:00"
       }
     ],
-    "8679165192": []
+    "8679165192": [],
+    "8679199910": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8679199910,
+        "hero": "Morphling",
+        "kda": "12/3/18",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-05T22:10:34+00:00"
+      }
+    ]
   }
 }
