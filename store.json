@@ -476,7 +476,9 @@
     "8679199910": true,
     "8679662110": true,
     "8679745022": true,
-    "8679697226": true
+    "8679697226": true,
+    "8679854464": true,
+    "8679795186": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3206,7 +3208,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 52,
+      "total_points": 58,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3787,6 +3789,27 @@
           ],
           "damage": 37071,
           "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8679854464": {
+          "date": "2026-02-06 13:06 UTC",
+          "hero": "Phantom Lancer",
+          "kda": "25/6/10",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 82516,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -9319,6 +9342,27 @@
     ],
     "8679662110": [],
     "8679745022": [],
-    "8679697226": []
+    "8679697226": [],
+    "8679854464": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8679854464,
+        "hero": "Phantom Lancer",
+        "kda": "25/6/10",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-06T13:06:21+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8679854464,
+        "hero": "Phantom Lancer",
+        "kda": "25/6/10",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-06T13:06:21+00:00"
+      }
+    ],
+    "8679795186": []
   }
 }
