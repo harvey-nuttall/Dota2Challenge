@@ -482,7 +482,8 @@
     "8680028559": true,
     "8680091526": true,
     "8680242931": true,
-    "8680309292": true
+    "8680309292": true,
+    "8680412999": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4702,7 +4703,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 79,
+      "total_points": 76,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5356,6 +5357,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8680412999": {
+          "date": "2026-02-06 19:28 UTC",
+          "hero": "Vengeful Spirit",
+          "kda": "2/13/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 11849,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -9425,6 +9443,17 @@
         "timestamp": "2026-02-06T17:22:46+00:00"
       }
     ],
-    "8680309292": []
+    "8680309292": [],
+    "8680412999": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8680412999,
+        "hero": "Vengeful Spirit",
+        "kda": "2/13/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-06T19:28:50+00:00"
+      }
+    ]
   }
 }
