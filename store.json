@@ -486,7 +486,8 @@
     "8680412999": true,
     "8680469343": true,
     "8680524972": true,
-    "8680570425": true
+    "8680570425": true,
+    "8680617695": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4109,7 +4110,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -12,
+      "total_points": -8,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -4449,6 +4450,27 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8680617695": {
+          "date": "2026-02-06 22:47 UTC",
+          "hero": "Omniknight",
+          "kda": "6/1/14",
+          "win": true,
+          "points": 4,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 10996,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
             },
             {
               "name": "Work Smarter, Not Harder: Efficiency",
@@ -9499,6 +9521,26 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-06T21:50:36+00:00"
+      }
+    ],
+    "8680617695": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8680617695,
+        "hero": "Omniknight",
+        "kda": "6/1/14",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-06T22:47:41+00:00"
+      },
+      {
+        "steam_id": 85906178,
+        "match_id": 8680617695,
+        "hero": "Omniknight",
+        "kda": "6/1/14",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-06T22:47:41+00:00"
       }
     ]
   }
