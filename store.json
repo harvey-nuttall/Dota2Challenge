@@ -538,7 +538,9 @@
     "8681971403": true,
     "8681973281": true,
     "8682082814": true,
-    "8682083128": true
+    "8682083128": true,
+    "8682120369": true,
+    "8682130088": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3079,7 +3081,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -25,
+      "total_points": -24,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3403,6 +3405,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8682120369": {
+          "date": "2026-02-07 22:28 UTC",
+          "hero": "Undying",
+          "kda": "8/8/26",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Big D Digby"
+          ],
+          "damage": 17658,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -10311,6 +10330,18 @@
         "timestamp": "2026-02-07T21:47:33+00:00"
       }
     ],
-    "8682083128": []
+    "8682083128": [],
+    "8682120369": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8682120369,
+        "hero": "Undying",
+        "kda": "8/8/26",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-07T22:28:59+00:00"
+      }
+    ],
+    "8682130088": []
   }
 }
