@@ -487,7 +487,11 @@
     "8680469343": true,
     "8680524972": true,
     "8680570425": true,
-    "8680617695": true
+    "8680617695": true,
+    "8680702315": true,
+    "8680664155": true,
+    "8680639142": true,
+    "8680641243": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2941,7 +2945,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -29,
+      "total_points": -25,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3210,6 +3214,61 @@
             {
               "name": "The Spectator (0 Kills)",
               "points": -20
+            }
+          ]
+        },
+        "8680702315": {
+          "date": "2026-02-07 01:03 UTC",
+          "hero": "Undying",
+          "kda": "2/13/29",
+          "win": true,
+          "points": -1,
+          "friends_in_match": [
+            "Big D Digby"
+          ],
+          "damage": 16017,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
+        },
+        "8680664155": {
+          "date": "2026-02-06 23:56 UTC",
+          "hero": "Axe",
+          "kda": "15/9/21",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Big D Digby"
+          ],
+          "damage": 28822,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8680639142": {
+          "date": "2026-02-06 23:17 UTC",
+          "hero": "Witch Doctor",
+          "kda": "5/16/5",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Big D Digby"
+          ],
+          "damage": 14611,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -9542,6 +9601,49 @@
         "points": 1,
         "timestamp": "2026-02-06T22:47:41+00:00"
       }
-    ]
+    ],
+    "8680702315": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8680702315,
+        "hero": "Undying",
+        "kda": "2/13/29",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-07T01:03:09+00:00"
+      }
+    ],
+    "8680664155": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8680664155,
+        "hero": "Axe",
+        "kda": "15/9/21",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-06T23:56:31+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8680664155,
+        "hero": "Axe",
+        "kda": "15/9/21",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-06T23:56:31+00:00"
+      }
+    ],
+    "8680639142": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8680639142,
+        "hero": "Witch Doctor",
+        "kda": "5/16/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-06T23:17:41+00:00"
+      }
+    ],
+    "8680641243": []
   }
 }
