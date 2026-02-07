@@ -523,7 +523,8 @@
     "8662717975": true,
     "8662480582": true,
     "8662289441": true,
-    "8660075139": true
+    "8660075139": true,
+    "8681504880": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1901,7 +1902,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -123,
+      "total_points": -126,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -2850,6 +2851,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8681504880": {
+          "date": "2026-02-07 14:40 UTC",
+          "hero": "Grimstroke",
+          "kda": "2/15/10",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf",
+            "Sssmookin"
+          ],
+          "damage": 13018,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -5947,7 +5966,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 33,
+      "total_points": 30,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -6094,6 +6113,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8681504880": {
+          "date": "2026-02-07 14:40 UTC",
+          "hero": "Lina",
+          "kda": "4/9/7",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf",
+            "Sssmookin"
+          ],
+          "damage": 28219,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -10077,6 +10114,26 @@
     "8662717975": [],
     "8662480582": [],
     "8662289441": [],
-    "8660075139": []
+    "8660075139": [],
+    "8681504880": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8681504880,
+        "hero": "Lina",
+        "kda": "4/9/7",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-07T14:40:21+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8681504880,
+        "hero": "Grimstroke",
+        "kda": "2/15/10",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-07T14:40:21+00:00"
+      }
+    ]
   }
 }
