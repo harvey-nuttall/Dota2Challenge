@@ -536,7 +536,9 @@
     "8681893168": true,
     "8681893173": true,
     "8681971403": true,
-    "8681973281": true
+    "8681973281": true,
+    "8682082814": true,
+    "8682083128": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2923,7 +2925,7 @@
     },
     "1247397877": {
       "name": "Irishman",
-      "total_points": 3,
+      "total_points": 0,
       "matches": {
         "8661053204": {
           "date": "2026-01-23 15:43 UTC",
@@ -3049,6 +3051,23 @@
             "Irishman"
           ],
           "damage": 24606,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8682082814": {
+          "date": "2026-02-07 21:47 UTC",
+          "hero": "Axe",
+          "kda": "4/13/5",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Irishman"
+          ],
+          "damage": 18222,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -10280,6 +10299,18 @@
       }
     ],
     "8681971403": [],
-    "8681973281": []
+    "8681973281": [],
+    "8682082814": [
+      {
+        "steam_id": 1247397877,
+        "match_id": 8682082814,
+        "hero": "Axe",
+        "kda": "4/13/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-07T21:47:33+00:00"
+      }
+    ],
+    "8682083128": []
   }
 }
