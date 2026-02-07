@@ -503,7 +503,8 @@
     "8681165132": true,
     "8681294286": true,
     "8681240549": true,
-    "8681198522": true
+    "8681198522": true,
+    "8681345889": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4837,7 +4838,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 74,
+      "total_points": 79,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5542,6 +5543,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8681345889": {
+          "date": "2026-02-07 12:58 UTC",
+          "hero": "Gyrocopter",
+          "kda": "17/8/10",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 64241,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -9749,6 +9767,17 @@
         "timestamp": "2026-02-07T11:40:14+00:00"
       }
     ],
-    "8681198522": []
+    "8681198522": [],
+    "8681345889": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8681345889,
+        "hero": "Gyrocopter",
+        "kda": "17/8/10",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-07T12:58:04+00:00"
+      }
+    ]
   }
 }
