@@ -526,7 +526,9 @@
     "8660075139": true,
     "8681504880": true,
     "8681564283": true,
-    "8681682455": true
+    "8681682455": true,
+    "8681733828": true,
+    "8681735296": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4257,7 +4259,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -8,
+      "total_points": -16,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -4622,6 +4624,27 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8681733828": {
+          "date": "2026-02-07 17:09 UTC",
+          "hero": "Razor",
+          "kda": "11/9/3",
+          "win": false,
+          "points": -8,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 22405,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
             }
           ]
         }
@@ -10166,6 +10189,27 @@
         "timestamp": "2026-02-07T15:17:26+00:00"
       }
     ],
-    "8681682455": []
+    "8681682455": [],
+    "8681733828": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8681733828,
+        "hero": "Razor",
+        "kda": "11/9/3",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-07T17:09:59+00:00"
+      },
+      {
+        "steam_id": 85906178,
+        "match_id": 8681733828,
+        "hero": "Razor",
+        "kda": "11/9/3",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-07T17:09:59+00:00"
+      }
+    ],
+    "8681735296": []
   }
 }
