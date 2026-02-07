@@ -531,7 +531,9 @@
     "8681735296": true,
     "8681776225": true,
     "8681769092": true,
-    "8681837317": true
+    "8681837317": true,
+    "8681796375": true,
+    "8681893168": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1909,7 +1911,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -129,
+      "total_points": -128,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -2894,6 +2896,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8681796375": {
+          "date": "2026-02-07 17:54 UTC",
+          "hero": "Razor",
+          "kda": "4/14/20",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 37437,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -10216,6 +10235,18 @@
     "8681735296": [],
     "8681776225": [],
     "8681769092": [],
-    "8681837317": []
+    "8681837317": [],
+    "8681796375": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8681796375,
+        "hero": "Razor",
+        "kda": "4/14/20",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-07T17:54:05+00:00"
+      }
+    ],
+    "8681893168": []
   }
 }
