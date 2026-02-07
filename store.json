@@ -506,7 +506,24 @@
     "8681198522": true,
     "8681345889": true,
     "8681427401": true,
-    "8681353913": true
+    "8681353913": true,
+    "8680682469": true,
+    "8680628498": true,
+    "8680169718": true,
+    "8674086579": true,
+    "8674036918": true,
+    "8673991468": true,
+    "8673450972": true,
+    "8672628254": true,
+    "8672594614": true,
+    "8672540312": true,
+    "8668197221": true,
+    "8667194487": true,
+    "8662915879": true,
+    "8662717975": true,
+    "8662480582": true,
+    "8662289441": true,
+    "8660075139": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5927,6 +5944,160 @@
           ]
         }
       }
+    },
+    "140345151": {
+      "name": "KingySmurf",
+      "total_points": 33,
+      "matches": {
+        "8680682469": {
+          "date": "2026-02-07 00:27 UTC",
+          "hero": "Necrophos",
+          "kda": "12/5/13",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 22750,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8680628498": {
+          "date": "2026-02-06 23:02 UTC",
+          "hero": "Windranger",
+          "kda": "22/5/17",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 33203,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8680169718": {
+          "date": "2026-02-06 16:32 UTC",
+          "hero": "Weaver",
+          "kda": "20/6/14",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 39421,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8674086579": {
+          "date": "2026-02-01 21:51 UTC",
+          "hero": "Skywrath Mage",
+          "kda": "16/2/17",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 59981,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8673450972": {
+          "date": "2026-02-01 13:55 UTC",
+          "hero": "Sand King",
+          "kda": "16/8/6",
+          "win": false,
+          "points": 4,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 38426,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
+        },
+        "8672628254": {
+          "date": "2026-02-01 00:10 UTC",
+          "hero": "Necrophos",
+          "kda": "20/4/13",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 62392,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8668197221": {
+          "date": "2026-01-28 18:21 UTC",
+          "hero": "Windranger",
+          "kda": "18/8/12",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 31895,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8662915879": {
+          "date": "2026-01-24 19:40 UTC",
+          "hero": "Earthshaker",
+          "kda": "13/14/22",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 41676,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        }
+      }
     }
   },
   "daily": {},
@@ -9782,6 +9953,130 @@
       }
     ],
     "8681427401": [],
-    "8681353913": []
+    "8681353913": [],
+    "8680682469": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8680682469,
+        "hero": "Necrophos",
+        "kda": "12/5/13",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-07T00:27:50+00:00"
+      }
+    ],
+    "8680628498": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8680628498,
+        "hero": "Windranger",
+        "kda": "22/5/17",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-06T23:02:25+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8680628498,
+        "hero": "Windranger",
+        "kda": "22/5/17",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-06T23:02:25+00:00"
+      }
+    ],
+    "8680169718": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8680169718,
+        "hero": "Weaver",
+        "kda": "20/6/14",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-06T16:32:06+00:00"
+      }
+    ],
+    "8674086579": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8674086579,
+        "hero": "Skywrath Mage",
+        "kda": "16/2/17",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-01T21:51:57+00:00"
+      }
+    ],
+    "8674036918": [],
+    "8673991468": [],
+    "8673450972": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8673450972,
+        "hero": "Sand King",
+        "kda": "16/8/6",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-01T13:55:38+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8673450972,
+        "hero": "Sand King",
+        "kda": "16/8/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-01T13:55:38+00:00"
+      }
+    ],
+    "8672628254": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8672628254,
+        "hero": "Necrophos",
+        "kda": "20/4/13",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-01T00:10:57+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8672628254,
+        "hero": "Necrophos",
+        "kda": "20/4/13",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-01T00:10:57+00:00"
+      }
+    ],
+    "8672594614": [],
+    "8672540312": [],
+    "8668197221": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8668197221,
+        "hero": "Windranger",
+        "kda": "18/8/12",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-01-28T18:21:17+00:00"
+      }
+    ],
+    "8667194487": [],
+    "8662915879": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8662915879,
+        "hero": "Earthshaker",
+        "kda": "13/14/22",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-01-24T19:40:29+00:00"
+      }
+    ],
+    "8662717975": [],
+    "8662480582": [],
+    "8662289441": [],
+    "8660075139": []
   }
 }
