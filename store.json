@@ -500,7 +500,10 @@
     "8681088275": true,
     "8681025321": true,
     "8681145701": true,
-    "8681165132": true
+    "8681165132": true,
+    "8681294286": true,
+    "8681240549": true,
+    "8681198522": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4834,7 +4837,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 76,
+      "total_points": 74,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5501,6 +5504,40 @@
             "Matt"
           ],
           "damage": 11849,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8681294286": {
+          "date": "2026-02-07 12:21 UTC",
+          "hero": "Drow Ranger",
+          "kda": "3/3/9",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 7371,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8681240549": {
+          "date": "2026-02-07 11:40 UTC",
+          "hero": "Faceless Void",
+          "kda": "6/6/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 18066,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -9689,6 +9726,29 @@
         "timestamp": "2026-02-07T10:17:44+00:00"
       }
     ],
-    "8681165132": []
+    "8681165132": [],
+    "8681294286": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8681294286,
+        "hero": "Drow Ranger",
+        "kda": "3/3/9",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-07T12:21:44+00:00"
+      }
+    ],
+    "8681240549": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8681240549,
+        "hero": "Faceless Void",
+        "kda": "6/6/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-07T11:40:14+00:00"
+      }
+    ],
+    "8681198522": []
   }
 }
