@@ -542,7 +542,8 @@
     "8682120369": true,
     "8682130088": true,
     "8682204404": true,
-    "8682169190": true
+    "8682169190": true,
+    "8682239674": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3083,7 +3084,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -25,
+      "total_points": -26,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3439,6 +3440,24 @@
             "Big D Digby"
           ],
           "damage": 7853,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
+        },
+        "8682239674": {
+          "date": "2026-02-08 01:28 UTC",
+          "hero": "Undying",
+          "kda": "12/14/17",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Big D Digby",
+            "Pet poo bum bum boy"
+          ],
+          "damage": 33268,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -10430,6 +10449,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -1,
         "timestamp": "2026-02-07T23:32:50+00:00"
+      }
+    ],
+    "8682239674": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8682239674,
+        "hero": "Undying",
+        "kda": "12/14/17",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-08T01:28:54+00:00"
       }
     ]
   }
