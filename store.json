@@ -544,7 +544,9 @@
     "8682204404": true,
     "8682169190": true,
     "8682239674": true,
-    "8683103591": true
+    "8683103591": true,
+    "8683194529": true,
+    "8683250537": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4400,7 +4402,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -11,
+      "total_points": -14,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -4803,6 +4805,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8683250537": {
+          "date": "2026-02-08 16:36 UTC",
+          "hero": "Omniknight",
+          "kda": "5/7/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 6463,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -5806,7 +5825,7 @@
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 38,
+      "total_points": 37,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -6156,6 +6175,25 @@
             "Thom"
           ],
           "damage": 12288,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
+        },
+        "8683194529": {
+          "date": "2026-02-08 15:58 UTC",
+          "hero": "Phantom Lancer",
+          "kda": "2/6/7",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Thom",
+            "Sssmookin",
+            "Smithy"
+          ],
+          "damage": 13893,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -10490,6 +10528,28 @@
         "name": "AFK Jungler Syndrome",
         "points": -1,
         "timestamp": "2026-02-08T14:59:45+00:00"
+      }
+    ],
+    "8683194529": [
+      {
+        "steam_id": 121637548,
+        "match_id": 8683194529,
+        "hero": "Phantom Lancer",
+        "kda": "2/6/7",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-08T15:58:21+00:00"
+      }
+    ],
+    "8683250537": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8683250537,
+        "hero": "Omniknight",
+        "kda": "5/7/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-08T16:36:56+00:00"
       }
     ]
   }
