@@ -540,7 +540,9 @@
     "8682082814": true,
     "8682083128": true,
     "8682120369": true,
-    "8682130088": true
+    "8682130088": true,
+    "8682204404": true,
+    "8682169190": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3081,7 +3083,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -24,
+      "total_points": -25,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3422,6 +3424,25 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8682169190": {
+          "date": "2026-02-07 23:32 UTC",
+          "hero": "Undying",
+          "kda": "6/8/6",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Big D Digby"
+          ],
+          "damage": 7853,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -4058,7 +4079,7 @@
     },
     "46243750": {
       "name": "Pet poo bum bum boy",
-      "total_points": 39,
+      "total_points": 19,
       "matches": {
         "8651716538": {
           "date": "2026-01-16 16:56 UTC",
@@ -4315,6 +4336,25 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8682169190": {
+          "date": "2026-02-07 23:32 UTC",
+          "hero": "Phoenix",
+          "kda": "0/6/8",
+          "win": false,
+          "points": -20,
+          "friends_in_match": [
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Big D Digby"
+          ],
+          "damage": 24499,
+          "challenges": [
+            {
+              "name": "The Spectator (0 Kills)",
+              "points": -20
             }
           ]
         }
@@ -6089,7 +6129,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 30,
+      "total_points": 27,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -6250,6 +6290,25 @@
             "Sssmookin"
           ],
           "damage": 28219,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8682169190": {
+          "date": "2026-02-07 23:32 UTC",
+          "hero": "Anti-Mage",
+          "kda": "2/10/0",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Big D Digby"
+          ],
+          "damage": 4285,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -10342,6 +10401,36 @@
         "timestamp": "2026-02-07T22:28:59+00:00"
       }
     ],
-    "8682130088": []
+    "8682130088": [],
+    "8682204404": [],
+    "8682169190": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8682169190,
+        "hero": "Anti-Mage",
+        "kda": "2/10/0",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-07T23:32:50+00:00"
+      },
+      {
+        "steam_id": 46243750,
+        "match_id": 8682169190,
+        "hero": "Phoenix",
+        "kda": "0/6/8",
+        "name": "The Spectator (0 Kills)",
+        "points": -20,
+        "timestamp": "2026-02-07T23:32:50+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8682169190,
+        "hero": "Undying",
+        "kda": "6/8/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-07T23:32:50+00:00"
+      }
+    ]
   }
 }
