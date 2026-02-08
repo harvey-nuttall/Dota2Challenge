@@ -551,7 +551,8 @@
     "8683326582": true,
     "8683379166": true,
     "8683412253": true,
-    "8683599543": true
+    "8683599543": true,
+    "8683637174": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3110,7 +3111,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -26,
+      "total_points": -27,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -3484,6 +3485,25 @@
             "Pet poo bum bum boy"
           ],
           "damage": 33268,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
+        },
+        "8683637174": {
+          "date": "2026-02-08 22:29 UTC",
+          "hero": "Witch Doctor",
+          "kda": "11/19/21",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 22385,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -10588,6 +10608,17 @@
     ],
     "8683379166": [],
     "8683412253": [],
-    "8683599543": []
+    "8683599543": [],
+    "8683637174": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8683637174,
+        "hero": "Witch Doctor",
+        "kda": "11/19/21",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-08T22:29:50+00:00"
+      }
+    ]
   }
 }
