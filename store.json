@@ -547,7 +547,8 @@
     "8683103591": true,
     "8683194529": true,
     "8683250537": true,
-    "8683300630": true
+    "8683300630": true,
+    "8683326582": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5097,7 +5098,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 79,
+      "total_points": 84,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5815,6 +5816,23 @@
             "Matt"
           ],
           "damage": 64241,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8683326582": {
+          "date": "2026-02-08 17:32 UTC",
+          "hero": "Timbersaw",
+          "kda": "16/1/16",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 26967,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -10553,6 +10571,17 @@
         "timestamp": "2026-02-08T16:36:56+00:00"
       }
     ],
-    "8683300630": []
+    "8683300630": [],
+    "8683326582": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8683326582,
+        "hero": "Timbersaw",
+        "kda": "16/1/16",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-08T17:32:50+00:00"
+      }
+    ]
   }
 }
