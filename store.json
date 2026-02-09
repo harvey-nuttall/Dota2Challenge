@@ -565,7 +565,12 @@
     "8684405885": true,
     "8684588547": true,
     "8684541168": true,
-    "8684477200": true
+    "8684477200": true,
+    "8684595878": true,
+    "8684657673": true,
+    "8684640208": true,
+    "8684679625": true,
+    "8684622946": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1943,7 +1948,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -130,
+      "total_points": -128,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -2984,6 +2989,40 @@
               "points": -1
             }
           ]
+        },
+        "8684679625": {
+          "date": "2026-02-09 18:50 UTC",
+          "hero": "Silencer",
+          "kda": "13/11/32",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 28297,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8684622946": {
+          "date": "2026-02-09 18:01 UTC",
+          "hero": "Winter Wyvern",
+          "kda": "2/8/27",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 29395,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -3547,7 +3586,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 74,
+      "total_points": 80,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4199,6 +4238,27 @@
             "Smithy"
           ],
           "damage": 42196,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8684595878": {
+          "date": "2026-02-09 17:39 UTC",
+          "hero": "Morphling",
+          "kda": "17/3/5",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 27040,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -5242,7 +5302,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 84,
+      "total_points": 81,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -5983,12 +6043,30 @@
               "points": 5
             }
           ]
+        },
+        "8684657673": {
+          "date": "2026-02-09 18:31 UTC",
+          "hero": "Razor",
+          "kda": "2/12/12",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Thom"
+          ],
+          "damage": 11645,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 37,
+      "total_points": 34,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -6361,6 +6439,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8684657673": {
+          "date": "2026-02-09 18:31 UTC",
+          "hero": "Lifestealer",
+          "kda": "7/8/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Thom"
+          ],
+          "damage": 11288,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -10821,6 +10917,69 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-09T16:05:25+00:00"
+      }
+    ],
+    "8684595878": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8684595878,
+        "hero": "Morphling",
+        "kda": "17/3/5",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-09T17:39:11+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8684595878,
+        "hero": "Morphling",
+        "kda": "17/3/5",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-09T17:39:11+00:00"
+      }
+    ],
+    "8684657673": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8684657673,
+        "hero": "Razor",
+        "kda": "2/12/12",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-09T18:31:01+00:00"
+      },
+      {
+        "steam_id": 121637548,
+        "match_id": 8684657673,
+        "hero": "Lifestealer",
+        "kda": "7/8/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-09T18:31:01+00:00"
+      }
+    ],
+    "8684640208": [],
+    "8684679625": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8684679625,
+        "hero": "Silencer",
+        "kda": "13/11/32",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-09T18:50:00+00:00"
+      }
+    ],
+    "8684622946": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8684622946,
+        "hero": "Winter Wyvern",
+        "kda": "2/8/27",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-09T18:01:41+00:00"
       }
     ]
   }
