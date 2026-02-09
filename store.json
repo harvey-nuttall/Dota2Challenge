@@ -558,7 +558,14 @@
     "8684099219": true,
     "8684152220": true,
     "8684353654": true,
-    "8684308489": true
+    "8684308489": true,
+    "8684538199": true,
+    "8684534779": true,
+    "8684463493": true,
+    "8684405885": true,
+    "8684588547": true,
+    "8684541168": true,
+    "8684477200": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3540,7 +3547,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 68,
+      "total_points": 74,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4181,12 +4188,33 @@
               "points": 5
             }
           ]
+        },
+        "8684534779": {
+          "date": "2026-02-09 16:49 UTC",
+          "hero": "Lifestealer",
+          "kda": "16/4/13",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 42196,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
     "46243750": {
       "name": "Pet poo bum bum boy",
-      "total_points": 19,
+      "total_points": 24,
       "matches": {
         "8651716538": {
           "date": "2026-01-16 16:56 UTC",
@@ -4464,12 +4492,29 @@
               "points": -20
             }
           ]
+        },
+        "8684538199": {
+          "date": "2026-02-09 16:52 UTC",
+          "hero": "Phoenix",
+          "kda": "22/5/25",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Pet poo bum bum boy"
+          ],
+          "damage": 57142,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
         }
       }
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -14,
+      "total_points": -13,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -4889,6 +4934,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8684477200": {
+          "date": "2026-02-09 16:05 UTC",
+          "hero": "Omniknight",
+          "kda": "3/6/28",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 10855,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -10714,6 +10776,52 @@
         "timestamp": "2026-02-09T14:35:30+00:00"
       }
     ],
-    "8684308489": []
+    "8684308489": [],
+    "8684538199": [
+      {
+        "steam_id": 46243750,
+        "match_id": 8684538199,
+        "hero": "Phoenix",
+        "kda": "22/5/25",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-09T16:52:40+00:00"
+      }
+    ],
+    "8684534779": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8684534779,
+        "hero": "Lifestealer",
+        "kda": "16/4/13",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-09T16:49:45+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8684534779,
+        "hero": "Lifestealer",
+        "kda": "16/4/13",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-09T16:49:45+00:00"
+      }
+    ],
+    "8684463493": [],
+    "8684405885": [],
+    "8684588547": [],
+    "8684541168": [],
+    "8684477200": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8684477200,
+        "hero": "Omniknight",
+        "kda": "3/6/28",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-09T16:05:25+00:00"
+      }
+    ]
   }
 }
