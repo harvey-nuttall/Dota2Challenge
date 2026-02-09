@@ -556,7 +556,9 @@
     "8683712558": true,
     "8684050994": true,
     "8684099219": true,
-    "8684152220": true
+    "8684152220": true,
+    "8684353654": true,
+    "8684308489": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3538,7 +3540,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 63,
+      "total_points": 68,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4156,6 +4158,23 @@
             "Smithy"
           ],
           "damage": 46494,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8684353654": {
+          "date": "2026-02-09 14:35 UTC",
+          "hero": "Viper",
+          "kda": "19/11/14",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 72688,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -10683,6 +10702,18 @@
         "points": -1,
         "timestamp": "2026-02-09T12:05:30+00:00"
       }
-    ]
+    ],
+    "8684353654": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8684353654,
+        "hero": "Viper",
+        "kda": "19/11/14",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-09T14:35:30+00:00"
+      }
+    ],
+    "8684308489": []
   }
 }
