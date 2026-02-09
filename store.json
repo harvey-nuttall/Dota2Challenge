@@ -576,7 +576,8 @@
     "8684718412": true,
     "8684736778": true,
     "8684785148": true,
-    "8684842179": true
+    "8684842179": true,
+    "8684863062": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6487,7 +6488,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 27,
+      "total_points": 32,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -6671,6 +6672,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8684863062": {
+          "date": "2026-02-09 22:14 UTC",
+          "hero": "Necrophos",
+          "kda": "18/10/15",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 49166,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -11020,6 +11038,17 @@
         "timestamp": "2026-02-09T20:31:20+00:00"
       }
     ],
-    "8684842179": []
+    "8684842179": [],
+    "8684863062": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8684863062,
+        "hero": "Necrophos",
+        "kda": "18/10/15",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-09T22:14:26+00:00"
+      }
+    ]
   }
 }
