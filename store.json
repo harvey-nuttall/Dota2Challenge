@@ -554,7 +554,9 @@
     "8683599543": true,
     "8683637174": true,
     "8683712558": true,
-    "8684050994": true
+    "8684050994": true,
+    "8684099219": true,
+    "8684152220": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1932,7 +1934,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -129,
+      "total_points": -130,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -2948,6 +2950,25 @@
             "Sssmookin"
           ],
           "damage": 21928,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
+        },
+        "8684099219": {
+          "date": "2026-02-09 11:14 UTC",
+          "hero": "Lich",
+          "kda": "7/14/22",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Thom",
+            "Sssmookin",
+            "Bonzaro"
+          ],
+          "damage": 33682,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -4856,7 +4877,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 22,
+      "total_points": 21,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -5116,6 +5137,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8684152220": {
+          "date": "2026-02-09 12:05 UTC",
+          "hero": "Spirit Breaker",
+          "kda": "5/6/11",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 19149,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -10623,6 +10661,28 @@
       }
     ],
     "8683712558": [],
-    "8684050994": []
+    "8684050994": [],
+    "8684099219": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8684099219,
+        "hero": "Lich",
+        "kda": "7/14/22",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-09T11:14:00+00:00"
+      }
+    ],
+    "8684152220": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8684152220,
+        "hero": "Spirit Breaker",
+        "kda": "5/6/11",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-09T12:05:30+00:00"
+      }
+    ]
   }
 }
