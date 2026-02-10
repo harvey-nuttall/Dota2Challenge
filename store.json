@@ -578,7 +578,8 @@
     "8684785148": true,
     "8684842179": true,
     "8684863062": true,
-    "8685086621": true
+    "8685086621": true,
+    "8685150198": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5043,7 +5044,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 26,
+      "total_points": 23,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -5337,6 +5338,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8685150198": {
+          "date": "2026-02-10 07:12 UTC",
+          "hero": "Ursa",
+          "kda": "8/7/5",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 15878,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -11077,6 +11095,17 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-10T05:17:18+00:00"
+      }
+    ],
+    "8685150198": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8685150198,
+        "hero": "Ursa",
+        "kda": "8/7/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-10T07:12:47+00:00"
       }
     ]
   }
