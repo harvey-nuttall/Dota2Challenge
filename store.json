@@ -579,7 +579,9 @@
     "8684842179": true,
     "8684863062": true,
     "8685086621": true,
-    "8685150198": true
+    "8685150198": true,
+    "8685236066": true,
+    "8685203899": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5044,7 +5046,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 23,
+      "total_points": 22,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -5355,6 +5357,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8685236066": {
+          "date": "2026-02-10 09:19 UTC",
+          "hero": "Magnus",
+          "kda": "3/13/19",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 21130,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -11107,6 +11126,18 @@
         "points": -3,
         "timestamp": "2026-02-10T07:12:47+00:00"
       }
-    ]
+    ],
+    "8685236066": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8685236066,
+        "hero": "Magnus",
+        "kda": "3/13/19",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-10T09:19:58+00:00"
+      }
+    ],
+    "8685203899": []
   }
 }
