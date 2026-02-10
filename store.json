@@ -584,7 +584,9 @@
     "8685203899": true,
     "8685299224": true,
     "8685278048": true,
-    "8685371596": true
+    "8685371596": true,
+    "8685516893": true,
+    "8685458722": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3052,6 +3054,40 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8685516893": {
+          "date": "2026-02-10 13:51 UTC",
+          "hero": "Dazzle",
+          "kda": "6/3/11",
+          "win": true,
+          "points": 3,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 6414,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
+            }
+          ]
+        },
+        "8685458722": {
+          "date": "2026-02-10 13:09 UTC",
+          "hero": "Dazzle",
+          "kda": "1/8/15",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 8345,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -11171,6 +11207,28 @@
         "timestamp": "2026-02-10T10:15:53+00:00"
       }
     ],
-    "8685371596": []
+    "8685371596": [],
+    "8685516893": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8685516893,
+        "hero": "Dazzle",
+        "kda": "6/3/11",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-10T13:51:48+00:00"
+      }
+    ],
+    "8685458722": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8685458722,
+        "hero": "Dazzle",
+        "kda": "1/8/15",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-10T13:09:48+00:00"
+      }
+    ]
   }
 }
