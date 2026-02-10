@@ -593,7 +593,9 @@
     "8685826351": true,
     "8685849400": true,
     "8685915995": true,
-    "8685913306": true
+    "8685913306": true,
+    "8685975505": true,
+    "8685972296": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5535,7 +5537,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 81,
+      "total_points": 78,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -6288,6 +6290,24 @@
             "Thom"
           ],
           "damage": 11645,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8685975505": {
+          "date": "2026-02-10 19:40 UTC",
+          "hero": "Tidehunter",
+          "kda": "4/6/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Smithy"
+          ],
+          "damage": 13310,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -11438,6 +11458,18 @@
         "timestamp": "2026-02-10T18:52:33+00:00"
       }
     ],
-    "8685913306": []
+    "8685913306": [],
+    "8685975505": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8685975505,
+        "hero": "Tidehunter",
+        "kda": "4/6/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-10T19:40:49+00:00"
+      }
+    ],
+    "8685972296": []
   }
 }
