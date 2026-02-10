@@ -577,7 +577,8 @@
     "8684736778": true,
     "8684785148": true,
     "8684842179": true,
-    "8684863062": true
+    "8684863062": true,
+    "8685086621": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5042,7 +5043,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 21,
+      "total_points": 26,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -5319,6 +5320,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8685086621": {
+          "date": "2026-02-10 05:17 UTC",
+          "hero": "Windranger",
+          "kda": "23/14/19",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 64802,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -11048,6 +11066,17 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-09T22:14:26+00:00"
+      }
+    ],
+    "8685086621": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8685086621,
+        "hero": "Windranger",
+        "kda": "23/14/19",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-10T05:17:18+00:00"
       }
     ]
   }
