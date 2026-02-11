@@ -609,7 +609,11 @@
     "8686965709": true,
     "8686905888": true,
     "8687084846": true,
-    "8687020174": true
+    "8687020174": true,
+    "8687175654": true,
+    "8687100316": true,
+    "8687198854": true,
+    "8687148499": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1987,7 +1991,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -147,
+      "total_points": -150,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -3294,6 +3298,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8687148499": {
+          "date": "2026-02-11 17:30 UTC",
+          "hero": "Lich",
+          "kda": "8/11/22",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 27347,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -11910,6 +11931,20 @@
         "name": "AFK Jungler Syndrome",
         "points": -1,
         "timestamp": "2026-02-11T15:52:55+00:00"
+      }
+    ],
+    "8687175654": [],
+    "8687100316": [],
+    "8687198854": [],
+    "8687148499": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8687148499,
+        "hero": "Lich",
+        "kda": "8/11/22",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-11T17:30:40+00:00"
       }
     ]
   }
