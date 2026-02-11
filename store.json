@@ -616,7 +616,8 @@
     "8687148499": true,
     "8687256888": true,
     "8687306014": true,
-    "8687340965": true
+    "8687340965": true,
+    "8687432583": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5783,7 +5784,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 80,
+      "total_points": 77,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -6596,6 +6597,24 @@
               "points": 5
             }
           ]
+        },
+        "8687432583": {
+          "date": "2026-02-11 22:13 UTC",
+          "hero": "Ancient Apparition",
+          "kda": "1/14/12",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 12838,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -7077,7 +7096,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 32,
+      "total_points": 31,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -7278,6 +7297,24 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8687432583": {
+          "date": "2026-02-11 22:13 UTC",
+          "hero": "Windranger",
+          "kda": "11/11/6",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 24501,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -12005,6 +12042,26 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-11T20:16:49+00:00"
+      }
+    ],
+    "8687432583": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8687432583,
+        "hero": "Windranger",
+        "kda": "11/11/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-11T22:13:45+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8687432583,
+        "hero": "Ancient Apparition",
+        "kda": "1/14/12",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-11T22:13:45+00:00"
       }
     ]
   }
