@@ -607,7 +607,9 @@
     "8686673387": true,
     "8686838143": true,
     "8686965709": true,
-    "8686905888": true
+    "8686905888": true,
+    "8687084846": true,
+    "8687020174": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3258,6 +3260,40 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8687084846": {
+          "date": "2026-02-11 16:40 UTC",
+          "hero": "Oracle",
+          "kda": "5/11/29",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 13183,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8687020174": {
+          "date": "2026-02-11 15:52 UTC",
+          "hero": "Winter Wyvern",
+          "kda": "6/10/15",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 27167,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -11852,6 +11888,28 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-11T14:33:48+00:00"
+      }
+    ],
+    "8687084846": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8687084846,
+        "hero": "Oracle",
+        "kda": "5/11/29",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-11T16:40:58+00:00"
+      }
+    ],
+    "8687020174": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8687020174,
+        "hero": "Winter Wyvern",
+        "kda": "6/10/15",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-11T15:52:55+00:00"
       }
     ]
   }
