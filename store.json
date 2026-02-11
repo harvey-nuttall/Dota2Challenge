@@ -605,7 +605,9 @@
     "8686555182": true,
     "8686751242": true,
     "8686673387": true,
-    "8686838143": true
+    "8686838143": true,
+    "8686965709": true,
+    "8686905888": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1983,7 +1985,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -144,
+      "total_points": -147,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -3238,6 +3240,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8686905888": {
+          "date": "2026-02-11 14:33 UTC",
+          "hero": "Dazzle",
+          "kda": "2/7/6",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Thom",
+            "Sssmookin"
+          ],
+          "damage": 8448,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -6487,7 +6507,7 @@
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 36,
+      "total_points": 33,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -6938,6 +6958,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8686905888": {
+          "date": "2026-02-11 14:33 UTC",
+          "hero": "Drow Ranger",
+          "kda": "4/6/2",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Thom",
+            "Sssmookin"
+          ],
+          "damage": 10263,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -11793,6 +11831,27 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-11T13:48:55+00:00"
+      }
+    ],
+    "8686965709": [],
+    "8686905888": [
+      {
+        "steam_id": 121637548,
+        "match_id": 8686905888,
+        "hero": "Drow Ranger",
+        "kda": "4/6/2",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-11T14:33:48+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8686905888,
+        "hero": "Dazzle",
+        "kda": "2/7/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-11T14:33:48+00:00"
       }
     ]
   }
