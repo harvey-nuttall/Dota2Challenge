@@ -601,7 +601,8 @@
     "8686145624": true,
     "8686078155": true,
     "8686461013": true,
-    "8686490191": true
+    "8686490191": true,
+    "8686555182": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1979,7 +1980,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -129,
+      "total_points": -128,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -3174,6 +3175,24 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8686555182": {
+          "date": "2026-02-11 09:30 UTC",
+          "hero": "Winter Wyvern",
+          "kda": "9/12/33",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Bonzaro",
+            "Sssmookin"
+          ],
+          "damage": 39324,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -5189,7 +5208,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 24,
+      "total_points": 30,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -5550,6 +5569,28 @@
           ],
           "damage": 24693,
           "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8686555182": {
+          "date": "2026-02-11 09:30 UTC",
+          "hero": "Windranger",
+          "kda": "22/7/27",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Bonzaro",
+            "Sssmookin"
+          ],
+          "damage": 67452,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -11565,6 +11606,35 @@
       }
     ],
     "8686461013": [],
-    "8686490191": []
+    "8686490191": [],
+    "8686555182": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8686555182,
+        "hero": "Windranger",
+        "kda": "22/7/27",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-11T09:30:54+00:00"
+      },
+      {
+        "steam_id": 246425616,
+        "match_id": 8686555182,
+        "hero": "Windranger",
+        "kda": "22/7/27",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-11T09:30:54+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8686555182,
+        "hero": "Winter Wyvern",
+        "kda": "9/12/33",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-11T09:30:54+00:00"
+      }
+    ]
   }
 }
