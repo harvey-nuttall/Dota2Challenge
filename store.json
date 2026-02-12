@@ -617,7 +617,8 @@
     "8687256888": true,
     "8687306014": true,
     "8687340965": true,
-    "8687432583": true
+    "8687432583": true,
+    "8687701246": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5368,7 +5369,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 34,
+      "total_points": 35,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -5774,6 +5775,23 @@
               "name": "Speedrunner Vibes: <25m Win",
               "points": 3
             },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8687701246": {
+          "date": "2026-02-12 06:31 UTC",
+          "hero": "Primal Beast",
+          "kda": "3/11/28",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 18408,
+          "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -12062,6 +12080,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-11T22:13:45+00:00"
+      }
+    ],
+    "8687701246": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8687701246,
+        "hero": "Primal Beast",
+        "kda": "3/11/28",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-12T06:31:49+00:00"
       }
     ]
   }
