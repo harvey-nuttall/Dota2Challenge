@@ -628,7 +628,10 @@
     "8688484737": true,
     "8688445280": true,
     "8688411727": true,
-    "8688482323": true
+    "8688482323": true,
+    "8688543348": true,
+    "8688543498": true,
+    "8688509948": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -7231,7 +7234,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 31,
+      "total_points": 36,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -7450,6 +7453,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8688509948": {
+          "date": "2026-02-12 18:59 UTC",
+          "hero": "Riki",
+          "kda": "19/16/27",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 45577,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -12287,6 +12307,19 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-12T18:35:45+00:00"
+      }
+    ],
+    "8688543348": [],
+    "8688543498": [],
+    "8688509948": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8688509948,
+        "hero": "Riki",
+        "kda": "19/16/27",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-12T18:59:19+00:00"
       }
     ]
   }
