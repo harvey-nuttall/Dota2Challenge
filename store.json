@@ -638,7 +638,8 @@
     "8688697236": true,
     "8688755496": true,
     "8689019095": true,
-    "8689050821": true
+    "8689050821": true,
+    "8689105483": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5530,7 +5531,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 32,
+      "total_points": 31,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -5973,6 +5974,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8689105483": {
+          "date": "2026-02-13 09:39 UTC",
+          "hero": "Slardar",
+          "kda": "11/11/8",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 18830,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -12471,6 +12489,17 @@
         "timestamp": "2026-02-13T07:47:44+00:00"
       }
     ],
-    "8689050821": []
+    "8689050821": [],
+    "8689105483": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8689105483,
+        "hero": "Slardar",
+        "kda": "11/11/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-13T09:39:09+00:00"
+      }
+    ]
   }
 }
