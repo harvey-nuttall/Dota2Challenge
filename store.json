@@ -654,7 +654,8 @@
     "8690004084": true,
     "8690071364": true,
     "8690036023": true,
-    "8690073940": true
+    "8690073940": true,
+    "8690177822": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1180,7 +1181,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -397,
+      "total_points": -396,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2025,6 +2026,23 @@
             {
               "name": "The Spectator (0 Kills)",
               "points": -20
+            }
+          ]
+        },
+        "8690177822": {
+          "date": "2026-02-14 03:07 UTC",
+          "hero": "Tiny",
+          "kda": "1/5/19",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 18345,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -12707,6 +12725,17 @@
       }
     ],
     "8690036023": [],
-    "8690073940": []
+    "8690073940": [],
+    "8690177822": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8690177822,
+        "hero": "Tiny",
+        "kda": "1/5/19",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-14T03:07:18+00:00"
+      }
+    ]
   }
 }
