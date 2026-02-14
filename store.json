@@ -651,7 +651,10 @@
     "8689819469": true,
     "8689913412": true,
     "8689964265": true,
-    "8690004084": true
+    "8690004084": true,
+    "8690071364": true,
+    "8690036023": true,
+    "8690073940": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3651,7 +3654,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -22,
+      "total_points": -32,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4066,6 +4069,24 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8690071364": {
+          "date": "2026-02-14 00:01 UTC",
+          "hero": "Pudge",
+          "kda": "7/23/19",
+          "win": false,
+          "points": -10,
+          "friends_in_match": [
+            "KingySmurf",
+            "Big D Digby"
+          ],
+          "damage": 28840,
+          "challenges": [
+            {
+              "name": "The Walking Ward: 20+ Deaths",
+              "points": -10
             }
           ]
         }
@@ -12673,6 +12694,19 @@
         "timestamp": "2026-02-13T21:32:04+00:00"
       }
     ],
-    "8690004084": []
+    "8690004084": [],
+    "8690071364": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8690071364,
+        "hero": "Pudge",
+        "kda": "7/23/19",
+        "name": "The Walking Ward: 20+ Deaths",
+        "points": -10,
+        "timestamp": "2026-02-14T00:01:54+00:00"
+      }
+    ],
+    "8690036023": [],
+    "8690073940": []
   }
 }
