@@ -660,7 +660,8 @@
     "8690385903": true,
     "8690436711": true,
     "8690510481": true,
-    "8690498845": true
+    "8690498845": true,
+    "8690550343": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5622,7 +5623,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 47,
+      "total_points": 52,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -6134,6 +6135,23 @@
             "Bonzaro"
           ],
           "damage": 38735,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8690550343": {
+          "date": "2026-02-14 10:55 UTC",
+          "hero": "Razor",
+          "kda": "16/5/19",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 44581,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -12773,6 +12791,17 @@
       }
     ],
     "8690510481": [],
-    "8690498845": []
+    "8690498845": [],
+    "8690550343": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8690550343,
+        "hero": "Razor",
+        "kda": "16/5/19",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-14T10:55:19+00:00"
+      }
+    ]
   }
 }
