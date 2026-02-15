@@ -683,7 +683,8 @@
     "8692592132": true,
     "8692527376": true,
     "8692598792": true,
-    "8692682731": true
+    "8692682731": true,
+    "8692736346": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6353,7 +6354,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 79,
+      "total_points": 71,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -7243,6 +7244,28 @@
               "points": 1
             }
           ]
+        },
+        "8692736346": {
+          "date": "2026-02-15 19:33 UTC",
+          "hero": "Axe",
+          "kda": "5/7/0",
+          "win": false,
+          "points": -8,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 5597,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
+            }
+          ]
         }
       }
     },
@@ -7759,7 +7782,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 36,
+      "total_points": 31,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -8087,6 +8110,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8692736346": {
+          "date": "2026-02-15 19:33 UTC",
+          "hero": "Night Stalker",
+          "kda": "1/6/3",
+          "win": false,
+          "points": -5,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 8581,
+          "challenges": [
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
             }
           ]
         }
@@ -13348,6 +13389,35 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-15T18:49:28+00:00"
+      }
+    ],
+    "8692736346": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8692736346,
+        "hero": "Night Stalker",
+        "kda": "1/6/3",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-15T19:33:34+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8692736346,
+        "hero": "Axe",
+        "kda": "5/7/0",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-15T19:33:34+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8692736346,
+        "hero": "Axe",
+        "kda": "5/7/0",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-15T19:33:34+00:00"
       }
     ]
   }
