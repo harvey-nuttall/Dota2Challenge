@@ -664,7 +664,9 @@
     "8690550343": true,
     "8691069936": true,
     "8691230855": true,
-    "8691447458": true
+    "8691447458": true,
+    "8691532678": true,
+    "8691510600": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1190,7 +1192,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -396,
+      "total_points": -399,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2052,6 +2054,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8691510600": {
+          "date": "2026-02-15 00:40 UTC",
+          "hero": "Alchemist",
+          "kda": "2/9/1",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf",
+            "Dreamer"
+          ],
+          "damage": 6116,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -7513,7 +7533,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 34,
+      "total_points": 31,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -7783,6 +7803,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8691510600": {
+          "date": "2026-02-15 00:40 UTC",
+          "hero": "Windranger",
+          "kda": "10/7/6",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf",
+            "Dreamer"
+          ],
+          "damage": 32643,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -12835,6 +12873,27 @@
       }
     ],
     "8691230855": [],
-    "8691447458": []
+    "8691447458": [],
+    "8691532678": [],
+    "8691510600": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8691510600,
+        "hero": "Windranger",
+        "kda": "10/7/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-15T00:40:28+00:00"
+      },
+      {
+        "steam_id": 367108642,
+        "match_id": 8691510600,
+        "hero": "Alchemist",
+        "kda": "2/9/1",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-15T00:40:28+00:00"
+      }
+    ]
   }
 }
