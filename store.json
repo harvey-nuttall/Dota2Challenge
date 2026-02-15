@@ -679,7 +679,9 @@
     "8692158578": true,
     "8692340976": true,
     "8692474608": true,
-    "8692536472": true
+    "8692536472": true,
+    "8692592132": true,
+    "8692527376": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6328,7 +6330,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 74,
+      "total_points": 75,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -7178,6 +7180,24 @@
               "points": -3
             }
           ]
+        },
+        "8692527376": {
+          "date": "2026-02-15 16:55 UTC",
+          "hero": "Legion Commander",
+          "kda": "11/6/16",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 44537,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -7694,7 +7714,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 31,
+      "total_points": 32,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -7982,6 +8002,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8692527376": {
+          "date": "2026-02-15 16:55 UTC",
+          "hero": "Windranger",
+          "kda": "12/11/19",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 44612,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -13164,6 +13202,27 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-15T17:01:13+00:00"
+      }
+    ],
+    "8692592132": [],
+    "8692527376": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8692527376,
+        "hero": "Legion Commander",
+        "kda": "11/6/16",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-15T16:55:03+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8692527376,
+        "hero": "Windranger",
+        "kda": "12/11/19",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-15T16:55:03+00:00"
       }
     ]
   }
