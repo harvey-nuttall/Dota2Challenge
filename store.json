@@ -681,7 +681,9 @@
     "8692474608": true,
     "8692536472": true,
     "8692592132": true,
-    "8692527376": true
+    "8692527376": true,
+    "8692598792": true,
+    "8692682731": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5324,6 +5326,27 @@
               "points": -5
             }
           ]
+        },
+        "8692598792": {
+          "date": "2026-02-15 17:45 UTC",
+          "hero": "Phoenix",
+          "kda": "16/17/18",
+          "win": false,
+          "points": 0,
+          "friends_in_match": [
+            "Pet poo bum bum boy"
+          ],
+          "damage": 109979,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Tactical Throw: Lost with Megas",
+              "points": -5
+            }
+          ]
         }
       }
     },
@@ -6330,7 +6353,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 75,
+      "total_points": 79,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -7198,6 +7221,28 @@
               "points": 1
             }
           ]
+        },
+        "8692682731": {
+          "date": "2026-02-15 18:49 UTC",
+          "hero": "Razor",
+          "kda": "5/5/11",
+          "win": true,
+          "points": 4,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 13259,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -7714,7 +7759,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 32,
+      "total_points": 36,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -8017,6 +8062,28 @@
           ],
           "damage": 44612,
           "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8692682731": {
+          "date": "2026-02-15 18:49 UTC",
+          "hero": "Windranger",
+          "kda": "8/5/6",
+          "win": true,
+          "points": 4,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 14318,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
+            },
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -13223,6 +13290,64 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-15T16:55:03+00:00"
+      }
+    ],
+    "8692598792": [
+      {
+        "steam_id": 46243750,
+        "match_id": 8692598792,
+        "hero": "Phoenix",
+        "kda": "16/17/18",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-15T17:45:18+00:00"
+      },
+      {
+        "steam_id": 46243750,
+        "match_id": 8692598792,
+        "hero": "Phoenix",
+        "kda": "16/17/18",
+        "name": "Tactical Throw: Lost with Megas",
+        "points": -5,
+        "timestamp": "2026-02-15T17:45:18+00:00"
+      }
+    ],
+    "8692682731": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8692682731,
+        "hero": "Windranger",
+        "kda": "8/5/6",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-15T18:49:28+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8692682731,
+        "hero": "Windranger",
+        "kda": "8/5/6",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-15T18:49:28+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8692682731,
+        "hero": "Razor",
+        "kda": "5/5/11",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-15T18:49:28+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8692682731,
+        "hero": "Razor",
+        "kda": "5/5/11",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-15T18:49:28+00:00"
       }
     ]
   }
