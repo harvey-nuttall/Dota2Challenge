@@ -676,7 +676,8 @@
     "8691917448": true,
     "8692083464": true,
     "8692212829": true,
-    "8692158578": true
+    "8692158578": true,
+    "8692340976": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4946,7 +4947,7 @@
     },
     "46243750": {
       "name": "Pet poo bum bum boy",
-      "total_points": 25,
+      "total_points": -1,
       "matches": {
         "8651716538": {
           "date": "2026-01-16 16:56 UTC",
@@ -5256,6 +5257,31 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8692340976": {
+          "date": "2026-02-15 14:54 UTC",
+          "hero": "Phoenix",
+          "kda": "0/4/1",
+          "win": false,
+          "points": -26,
+          "friends_in_match": [
+            "Pet poo bum bum boy"
+          ],
+          "damage": 13254,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            },
+            {
+              "name": "The Spectator (0 Kills)",
+              "points": -20
+            },
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
             }
           ]
         }
@@ -13022,6 +13048,35 @@
       }
     ],
     "8692212829": [],
-    "8692158578": []
+    "8692158578": [],
+    "8692340976": [
+      {
+        "steam_id": 46243750,
+        "match_id": 8692340976,
+        "hero": "Phoenix",
+        "kda": "0/4/1",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-15T14:54:58+00:00"
+      },
+      {
+        "steam_id": 46243750,
+        "match_id": 8692340976,
+        "hero": "Phoenix",
+        "kda": "0/4/1",
+        "name": "The Spectator (0 Kills)",
+        "points": -20,
+        "timestamp": "2026-02-15T14:54:58+00:00"
+      },
+      {
+        "steam_id": 46243750,
+        "match_id": 8692340976,
+        "hero": "Phoenix",
+        "kda": "0/4/1",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-15T14:54:58+00:00"
+      }
+    ]
   }
 }
