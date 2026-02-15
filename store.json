@@ -686,7 +686,9 @@
     "8692682731": true,
     "8692736346": true,
     "8692781206": true,
-    "8692813187": true
+    "8692813187": true,
+    "8692802168": true,
+    "8692768170": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1212,7 +1214,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -396,
+      "total_points": -395,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2143,6 +2145,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8692802168": {
+          "date": "2026-02-15 20:33 UTC",
+          "hero": "Alchemist",
+          "kda": "2/6/8",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 11736,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -7784,7 +7803,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 31,
+      "total_points": 28,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -8130,6 +8149,23 @@
             {
               "name": "Sub-20 Minute Trash: Stomped",
               "points": -5
+            }
+          ]
+        },
+        "8692768170": {
+          "date": "2026-02-15 20:01 UTC",
+          "hero": "Lion",
+          "kda": "5/9/16",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 15901,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -13423,6 +13459,28 @@
       }
     ],
     "8692781206": [],
-    "8692813187": []
+    "8692813187": [],
+    "8692802168": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8692802168,
+        "hero": "Alchemist",
+        "kda": "2/6/8",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-15T20:33:52+00:00"
+      }
+    ],
+    "8692768170": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8692768170,
+        "hero": "Lion",
+        "kda": "5/9/16",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-15T20:01:27+00:00"
+      }
+    ]
   }
 }
