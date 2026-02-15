@@ -677,7 +677,8 @@
     "8692083464": true,
     "8692212829": true,
     "8692158578": true,
-    "8692340976": true
+    "8692340976": true,
+    "8692474608": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -3763,7 +3764,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -32,
+      "total_points": -35,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4196,6 +4197,25 @@
             {
               "name": "The Walking Ward: 20+ Deaths",
               "points": -10
+            }
+          ]
+        },
+        "8692474608": {
+          "date": "2026-02-15 16:20 UTC",
+          "hero": "Shadow Shaman",
+          "kda": "1/13/5",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "Pet poo bum bum boy"
+          ],
+          "damage": 13090,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -6290,7 +6310,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 77,
+      "total_points": 74,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -7115,6 +7135,25 @@
             "Matt"
           ],
           "damage": 12838,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8692474608": {
+          "date": "2026-02-15 16:20 UTC",
+          "hero": "Slark",
+          "kda": "1/8/2",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "Pet poo bum bum boy"
+          ],
+          "damage": 8196,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -13076,6 +13115,26 @@
         "name": "Sub-20 Minute Trash: Stomped",
         "points": -5,
         "timestamp": "2026-02-15T14:54:58+00:00"
+      }
+    ],
+    "8692474608": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8692474608,
+        "hero": "Slark",
+        "kda": "1/8/2",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-15T16:20:02+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8692474608,
+        "hero": "Shadow Shaman",
+        "kda": "1/13/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-15T16:20:02+00:00"
       }
     ]
   }
