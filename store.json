@@ -710,7 +710,8 @@
     "8693827709": true,
     "8693939196": true,
     "8693998973": true,
-    "8694011758": true
+    "8694011758": true,
+    "8694071308": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -741,7 +742,7 @@
     },
     "330017819": {
       "name": "Sheep",
-      "total_points": -23,
+      "total_points": -17,
       "matches": {
         "8651483726": {
           "date": "2026-01-16 14:21 UTC",
@@ -1151,6 +1152,30 @@
             {
               "name": "The Unstoppable Hivemind",
               "points": 5
+            }
+          ]
+        },
+        "8694071308": {
+          "date": "2026-02-16 20:47 UTC",
+          "hero": "Faceless Void",
+          "kda": "11/10/44",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Sheep",
+            "Smithy",
+            "Matt",
+            "Thom"
+          ],
+          "damage": 21438,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -4411,7 +4436,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 84,
+      "total_points": 95,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5172,6 +5197,34 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8694071308": {
+          "date": "2026-02-16 20:47 UTC",
+          "hero": "Leshrac",
+          "kda": "18/13/29",
+          "win": true,
+          "points": 11,
+          "friends_in_match": [
+            "Sheep",
+            "Smithy",
+            "Matt",
+            "Thom"
+          ],
+          "damage": 67943,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            },
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -6635,7 +6688,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 76,
+      "total_points": 87,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -7567,12 +7620,40 @@
               "points": 5
             }
           ]
+        },
+        "8694071308": {
+          "date": "2026-02-16 20:47 UTC",
+          "hero": "Nyx Assassin",
+          "kda": "20/15/25",
+          "win": true,
+          "points": 11,
+          "friends_in_match": [
+            "Sheep",
+            "Smithy",
+            "Matt",
+            "Thom"
+          ],
+          "damage": 48017,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            },
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 48,
+      "total_points": 59,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -8118,6 +8199,34 @@
             {
               "name": "The Unstoppable Hivemind",
               "points": 5
+            }
+          ]
+        },
+        "8694071308": {
+          "date": "2026-02-16 20:47 UTC",
+          "hero": "Muerta",
+          "kda": "16/10/25",
+          "win": true,
+          "points": 11,
+          "friends_in_match": [
+            "Sheep",
+            "Smithy",
+            "Matt",
+            "Thom"
+          ],
+          "damage": 52228,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            },
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -14034,6 +14143,107 @@
         "name": "The Unstoppable Hivemind",
         "points": 5,
         "timestamp": "2026-02-16T19:49:34+00:00"
+      }
+    ],
+    "8694071308": [
+      {
+        "steam_id": 330017819,
+        "match_id": 8694071308,
+        "hero": "Faceless Void",
+        "kda": "11/10/44",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 330017819,
+        "match_id": 8694071308,
+        "hero": "Faceless Void",
+        "kda": "11/10/44",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8694071308,
+        "hero": "Leshrac",
+        "kda": "18/13/29",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8694071308,
+        "hero": "Leshrac",
+        "kda": "18/13/29",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8694071308,
+        "hero": "Leshrac",
+        "kda": "18/13/29",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8694071308,
+        "hero": "Nyx Assassin",
+        "kda": "20/15/25",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8694071308,
+        "hero": "Nyx Assassin",
+        "kda": "20/15/25",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8694071308,
+        "hero": "Nyx Assassin",
+        "kda": "20/15/25",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 121637548,
+        "match_id": 8694071308,
+        "hero": "Muerta",
+        "kda": "16/10/25",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 121637548,
+        "match_id": 8694071308,
+        "hero": "Muerta",
+        "kda": "16/10/25",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-16T20:47:58+00:00"
+      },
+      {
+        "steam_id": 121637548,
+        "match_id": 8694071308,
+        "hero": "Muerta",
+        "kda": "16/10/25",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-16T20:47:58+00:00"
       }
     ]
   }
