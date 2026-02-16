@@ -708,7 +708,8 @@
     "8693603110": true,
     "8693829633": true,
     "8693827709": true,
-    "8693939196": true
+    "8693939196": true,
+    "8693998973": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -8039,7 +8040,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 28,
+      "total_points": 27,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -8402,6 +8403,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8693998973": {
+          "date": "2026-02-16 19:37 UTC",
+          "hero": "Axe",
+          "kda": "7/11/13",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 29177,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -13874,6 +13892,17 @@
       }
     ],
     "8693827709": [],
-    "8693939196": []
+    "8693939196": [],
+    "8693998973": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8693998973,
+        "hero": "Axe",
+        "kda": "7/11/13",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-16T19:37:57+00:00"
+      }
+    ]
   }
 }
