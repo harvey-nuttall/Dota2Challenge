@@ -705,7 +705,8 @@
     "8693362674": true,
     "8693444671": true,
     "8693413397": true,
-    "8693603110": true
+    "8693603110": true,
+    "8693829633": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5130,7 +5131,7 @@
     },
     "46243750": {
       "name": "Pet poo bum bum boy",
-      "total_points": -1,
+      "total_points": 4,
       "matches": {
         "8651716538": {
           "date": "2026-01-16 16:56 UTC",
@@ -5486,6 +5487,23 @@
             {
               "name": "Tactical Throw: Lost with Megas",
               "points": -5
+            }
+          ]
+        },
+        "8693829633": {
+          "date": "2026-02-16 17:22 UTC",
+          "hero": "Phoenix",
+          "kda": "17/5/8",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Pet poo bum bum boy"
+          ],
+          "damage": 37157,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -13841,6 +13859,17 @@
         "timestamp": "2026-02-16T11:49:28+00:00"
       }
     ],
-    "8693603110": []
+    "8693603110": [],
+    "8693829633": [
+      {
+        "steam_id": 46243750,
+        "match_id": 8693829633,
+        "hero": "Phoenix",
+        "kda": "17/5/8",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-16T17:22:58+00:00"
+      }
+    ]
   }
 }
