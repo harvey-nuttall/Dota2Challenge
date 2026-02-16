@@ -690,7 +690,11 @@
     "8692802168": true,
     "8692768170": true,
     "8692858876": true,
-    "8692910377": true
+    "8692910377": true,
+    "8692977463": true,
+    "8692953342": true,
+    "8692934086": true,
+    "8692971820": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1216,7 +1220,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -394,
+      "total_points": -397,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2181,6 +2185,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8692934086": {
+          "date": "2026-02-15 23:25 UTC",
+          "hero": "Tiny",
+          "kda": "2/9/7",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 8991,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -3810,7 +3831,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -38,
+      "total_points": -37,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4279,6 +4300,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8692971820": {
+          "date": "2026-02-16 00:35 UTC",
+          "hero": "Shadow Shaman",
+          "kda": "2/8/20",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Big D Digby"
+          ],
+          "damage": 10890,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -13511,6 +13549,30 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-15T22:46:23+00:00"
+      }
+    ],
+    "8692977463": [],
+    "8692953342": [],
+    "8692934086": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8692934086,
+        "hero": "Tiny",
+        "kda": "2/9/7",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-15T23:25:17+00:00"
+      }
+    ],
+    "8692971820": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8692971820,
+        "hero": "Shadow Shaman",
+        "kda": "2/8/20",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-16T00:35:58+00:00"
       }
     ]
   }
