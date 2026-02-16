@@ -694,7 +694,10 @@
     "8692977463": true,
     "8692953342": true,
     "8692934086": true,
-    "8692971820": true
+    "8692971820": true,
+    "8693066987": true,
+    "8693043916": true,
+    "8693020181": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1220,7 +1223,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -397,
+      "total_points": -399,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2202,6 +2205,40 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8693066987": {
+          "date": "2026-02-16 03:27 UTC",
+          "hero": "Bristleback",
+          "kda": "5/15/13",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 32406,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8693043916": {
+          "date": "2026-02-16 02:47 UTC",
+          "hero": "Dark Seer",
+          "kda": "7/4/19",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 26627,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -13574,6 +13611,29 @@
         "points": 1,
         "timestamp": "2026-02-16T00:35:58+00:00"
       }
-    ]
+    ],
+    "8693066987": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8693066987,
+        "hero": "Bristleback",
+        "kda": "5/15/13",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-16T03:27:47+00:00"
+      }
+    ],
+    "8693043916": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8693043916,
+        "hero": "Dark Seer",
+        "kda": "7/4/19",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-16T02:47:48+00:00"
+      }
+    ],
+    "8693020181": []
   }
 }
