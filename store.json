@@ -714,7 +714,8 @@
     "8694071308": true,
     "8694121729": true,
     "8694167037": true,
-    "8694334882": true
+    "8694334882": true,
+    "8694374684": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1284,7 +1285,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -398,
+      "total_points": -399,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2317,6 +2318,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8694374684": {
+          "date": "2026-02-17 05:13 UTC",
+          "hero": "Treant Protector",
+          "kda": "2/14/28",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 16014,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -14251,6 +14269,17 @@
     ],
     "8694121729": [],
     "8694167037": [],
-    "8694334882": []
+    "8694334882": [],
+    "8694374684": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8694374684,
+        "hero": "Treant Protector",
+        "kda": "2/14/28",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-17T05:13:27+00:00"
+      }
+    ]
   }
 }
