@@ -728,7 +728,8 @@
     "8695305926": true,
     "8695289787": true,
     "8695360444": true,
-    "8695397822": true
+    "8695397822": true,
+    "8695424499": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6107,7 +6108,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 53,
+      "total_points": 50,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -6784,6 +6785,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8695424499": {
+          "date": "2026-02-17 22:33 UTC",
+          "hero": "Pudge",
+          "kda": "3/11/16",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 13726,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -14522,6 +14540,17 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-17T21:52:52+00:00"
+      }
+    ],
+    "8695424499": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8695424499,
+        "hero": "Pudge",
+        "kda": "3/11/16",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-17T22:33:23+00:00"
       }
     ]
   }
