@@ -726,7 +726,8 @@
     "8694634066": true,
     "8694678240": true,
     "8695305926": true,
-    "8695289787": true
+    "8695289787": true,
+    "8695360444": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6772,7 +6773,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 87,
+      "total_points": 79,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -7732,6 +7733,28 @@
               "points": 1
             }
           ]
+        },
+        "8695360444": {
+          "date": "2026-02-17 21:04 UTC",
+          "hero": "Razor",
+          "kda": "1/10/3",
+          "win": false,
+          "points": -8,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 9462,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
+            }
+          ]
         }
       }
     },
@@ -8336,7 +8359,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 27,
+      "total_points": 19,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -8716,6 +8739,28 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8695360444": {
+          "date": "2026-02-17 21:04 UTC",
+          "hero": "Viper",
+          "kda": "3/8/3",
+          "win": false,
+          "points": -8,
+          "friends_in_match": [
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 15144,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
             }
           ]
         }
@@ -14411,6 +14456,44 @@
       }
     ],
     "8695305926": [],
-    "8695289787": []
+    "8695289787": [],
+    "8695360444": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8695360444,
+        "hero": "Viper",
+        "kda": "3/8/3",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-17T21:04:12+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8695360444,
+        "hero": "Viper",
+        "kda": "3/8/3",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-17T21:04:12+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8695360444,
+        "hero": "Razor",
+        "kda": "1/10/3",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-17T21:04:12+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8695360444,
+        "hero": "Razor",
+        "kda": "1/10/3",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-17T21:04:12+00:00"
+      }
+    ]
   }
 }
