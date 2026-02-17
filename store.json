@@ -723,7 +723,8 @@
     "8694509213": true,
     "8694572035": true,
     "8694560428": true,
-    "8694634066": true
+    "8694634066": true,
+    "8694678240": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6102,7 +6103,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 51,
+      "total_points": 52,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -6744,6 +6745,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8694678240": {
+          "date": "2026-02-17 11:45 UTC",
+          "hero": "Centaur Warrunner",
+          "kda": "13/9/20",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Thom",
+            "Bonzaro"
+          ],
+          "damage": 35220,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -7716,7 +7735,7 @@
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 59,
+      "total_points": 60,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -8287,6 +8306,24 @@
               "name": "Pudge's Wet Dream",
               "points": 5
             },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8694678240": {
+          "date": "2026-02-17 11:45 UTC",
+          "hero": "Drow Ranger",
+          "kda": "13/4/11",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Thom",
+            "Bonzaro"
+          ],
+          "damage": 42273,
+          "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -14350,6 +14387,26 @@
     "8694509213": [],
     "8694572035": [],
     "8694560428": [],
-    "8694634066": []
+    "8694634066": [],
+    "8694678240": [
+      {
+        "steam_id": 121637548,
+        "match_id": 8694678240,
+        "hero": "Drow Ranger",
+        "kda": "13/4/11",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-17T11:45:56+00:00"
+      },
+      {
+        "steam_id": 246425616,
+        "match_id": 8694678240,
+        "hero": "Centaur Warrunner",
+        "kda": "13/9/20",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-17T11:45:56+00:00"
+      }
+    ]
   }
 }
