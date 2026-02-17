@@ -727,7 +727,8 @@
     "8694678240": true,
     "8695305926": true,
     "8695289787": true,
-    "8695360444": true
+    "8695360444": true,
+    "8695397822": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6106,7 +6107,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 52,
+      "total_points": 53,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -6762,6 +6763,23 @@
             "Bonzaro"
           ],
           "damage": 35220,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8695397822": {
+          "date": "2026-02-17 21:52 UTC",
+          "hero": "Spirit Breaker",
+          "kda": "12/10/26",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 16852,
           "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
@@ -14493,6 +14511,17 @@
         "name": "Sub-20 Minute Trash: Stomped",
         "points": -5,
         "timestamp": "2026-02-17T21:04:12+00:00"
+      }
+    ],
+    "8695397822": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8695397822,
+        "hero": "Spirit Breaker",
+        "kda": "12/10/26",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-17T21:52:52+00:00"
       }
     ]
   }
