@@ -733,7 +733,8 @@
     "8695432509": true,
     "8695401495": true,
     "8695820709": true,
-    "8695795892": true
+    "8695795892": true,
+    "8695869533": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6112,7 +6113,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 56,
+      "total_points": 57,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -6827,6 +6828,32 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8695869533": {
+          "date": "2026-02-18 10:50 UTC",
+          "hero": "Razor",
+          "kda": "1/2/1",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Thom",
+            "Bonzaro"
+          ],
+          "damage": 2457,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            },
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -7821,7 +7848,7 @@
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 60,
+      "total_points": 64,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -8410,6 +8437,28 @@
           ],
           "damage": 42273,
           "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8695869533": {
+          "date": "2026-02-18 10:50 UTC",
+          "hero": "Drow Ranger",
+          "kda": "1/3/7",
+          "win": true,
+          "points": 4,
+          "friends_in_match": [
+            "Thom",
+            "Bonzaro"
+          ],
+          "damage": 7710,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
+            },
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -14599,6 +14648,53 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-18T09:15:47+00:00"
+      }
+    ],
+    "8695869533": [
+      {
+        "steam_id": 121637548,
+        "match_id": 8695869533,
+        "hero": "Drow Ranger",
+        "kda": "1/3/7",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-18T10:50:12+00:00"
+      },
+      {
+        "steam_id": 121637548,
+        "match_id": 8695869533,
+        "hero": "Drow Ranger",
+        "kda": "1/3/7",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-18T10:50:12+00:00"
+      },
+      {
+        "steam_id": 246425616,
+        "match_id": 8695869533,
+        "hero": "Razor",
+        "kda": "1/2/1",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-18T10:50:12+00:00"
+      },
+      {
+        "steam_id": 246425616,
+        "match_id": 8695869533,
+        "hero": "Razor",
+        "kda": "1/2/1",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-18T10:50:12+00:00"
+      },
+      {
+        "steam_id": 246425616,
+        "match_id": 8695869533,
+        "hero": "Razor",
+        "kda": "1/2/1",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-18T10:50:12+00:00"
       }
     ]
   }
