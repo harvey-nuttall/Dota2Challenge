@@ -743,7 +743,13 @@
     "8696189231": true,
     "8696257259": true,
     "8696322208": true,
-    "8696338580": true
+    "8696338580": true,
+    "8696522126": true,
+    "8696480059": true,
+    "8696405697": true,
+    "8696419798": true,
+    "8696491033": true,
+    "8696420257": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -8529,7 +8535,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 19,
+      "total_points": 20,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -8931,6 +8937,23 @@
             {
               "name": "Sub-20 Minute Trash: Stomped",
               "points": -5
+            }
+          ]
+        },
+        "8696420257": {
+          "date": "2026-02-18 18:29 UTC",
+          "hero": "Weaver",
+          "kda": "5/10/21",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 30818,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -14795,6 +14818,22 @@
         "timestamp": "2026-02-18T17:10:23+00:00"
       }
     ],
-    "8696338580": []
+    "8696338580": [],
+    "8696522126": [],
+    "8696480059": [],
+    "8696405697": [],
+    "8696419798": [],
+    "8696491033": [],
+    "8696420257": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8696420257,
+        "hero": "Weaver",
+        "kda": "5/10/21",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-18T18:29:33+00:00"
+      }
+    ]
   }
 }
