@@ -735,7 +735,9 @@
     "8695820709": true,
     "8695795892": true,
     "8695869533": true,
-    "8695936649": true
+    "8695936649": true,
+    "8696040642": true,
+    "8696031108": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6114,7 +6116,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 57,
+      "total_points": 62,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -6855,6 +6857,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8696040642": {
+          "date": "2026-02-18 13:34 UTC",
+          "hero": "Troll Warlord",
+          "kda": "18/4/10",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 37761,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -14698,6 +14717,18 @@
         "timestamp": "2026-02-18T10:50:12+00:00"
       }
     ],
-    "8695936649": []
+    "8695936649": [],
+    "8696040642": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8696040642,
+        "hero": "Troll Warlord",
+        "kda": "18/4/10",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-18T13:34:33+00:00"
+      }
+    ],
+    "8696031108": []
   }
 }
