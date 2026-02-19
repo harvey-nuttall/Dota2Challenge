@@ -775,7 +775,10 @@
     "8697452579": true,
     "8697532567": true,
     "8697577442": true,
-    "8697663345": true
+    "8697663345": true,
+    "8697786780": true,
+    "8697762107": true,
+    "8697800923": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -7123,7 +7126,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 92,
+      "total_points": 93,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8159,6 +8162,24 @@
               "points": 3
             }
           ]
+        },
+        "8697762107": {
+          "date": "2026-02-19 19:52 UTC",
+          "hero": "Kunkka",
+          "kda": "3/10/31",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 33285,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -8822,7 +8843,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 27,
+      "total_points": 28,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -9294,6 +9315,24 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8697762107": {
+          "date": "2026-02-19 19:52 UTC",
+          "hero": "Queen of Pain",
+          "kda": "11/14/30",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 48044,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -15379,6 +15418,28 @@
         "timestamp": "2026-02-19T17:19:48+00:00"
       }
     ],
-    "8697663345": []
+    "8697663345": [],
+    "8697786780": [],
+    "8697762107": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8697762107,
+        "hero": "Kunkka",
+        "kda": "3/10/31",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-19T19:52:24+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8697762107,
+        "hero": "Queen of Pain",
+        "kda": "11/14/30",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-19T19:52:24+00:00"
+      }
+    ],
+    "8697800923": []
   }
 }
