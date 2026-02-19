@@ -772,7 +772,8 @@
     "8697190998": true,
     "8697361767": true,
     "8697402440": true,
-    "8697452579": true
+    "8697452579": true,
+    "8697532567": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -8144,7 +8145,7 @@
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 67,
+      "total_points": 72,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -8776,6 +8777,25 @@
             {
               "name": "Speedrunner Vibes: <25m Win",
               "points": 3
+            }
+          ]
+        },
+        "8697532567": {
+          "date": "2026-02-19 16:45 UTC",
+          "hero": "Lifestealer",
+          "kda": "24/2/13",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Thom",
+            "Matt",
+            "Sssmookin"
+          ],
+          "damage": 52938,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -15317,6 +15337,17 @@
       }
     ],
     "8697402440": [],
-    "8697452579": []
+    "8697452579": [],
+    "8697532567": [
+      {
+        "steam_id": 121637548,
+        "match_id": 8697532567,
+        "hero": "Lifestealer",
+        "kda": "24/2/13",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-19T16:45:14+00:00"
+      }
+    ]
   }
 }
