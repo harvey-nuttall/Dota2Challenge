@@ -769,7 +769,9 @@
     "8697132345": true,
     "8697116846": true,
     "8697271312": true,
-    "8697190998": true
+    "8697190998": true,
+    "8697361767": true,
+    "8697402440": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -7100,7 +7102,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 89,
+      "total_points": 92,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8118,12 +8120,30 @@
               "points": 5
             }
           ]
+        },
+        "8697361767": {
+          "date": "2026-02-19 14:39 UTC",
+          "hero": "Vengeful Spirit",
+          "kda": "1/2/14",
+          "win": true,
+          "points": 3,
+          "friends_in_match": [
+            "Matt",
+            "Thom"
+          ],
+          "damage": 5496,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
+            }
+          ]
         }
       }
     },
     "121637548": {
       "name": "Thom",
-      "total_points": 64,
+      "total_points": 67,
       "matches": {
         "8654585010": {
           "date": "2026-01-18 13:59 UTC",
@@ -8737,6 +8757,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8697361767": {
+          "date": "2026-02-19 14:39 UTC",
+          "hero": "Lifestealer",
+          "kda": "7/0/6",
+          "win": true,
+          "points": 3,
+          "friends_in_match": [
+            "Matt",
+            "Thom"
+          ],
+          "damage": 7278,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
             }
           ]
         }
@@ -15256,6 +15294,27 @@
         "points": 5,
         "timestamp": "2026-02-19T12:23:02+00:00"
       }
-    ]
+    ],
+    "8697361767": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8697361767,
+        "hero": "Vengeful Spirit",
+        "kda": "1/2/14",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-19T14:39:08+00:00"
+      },
+      {
+        "steam_id": 121637548,
+        "match_id": 8697361767,
+        "hero": "Lifestealer",
+        "kda": "7/0/6",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-19T14:39:08+00:00"
+      }
+    ],
+    "8697402440": []
   }
 }
