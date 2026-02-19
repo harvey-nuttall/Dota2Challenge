@@ -761,7 +761,10 @@
     "8696695346": true,
     "8696668369": true,
     "8696658220": true,
-    "8696851707": true
+    "8696851707": true,
+    "8696876743": true,
+    "8696908997": true,
+    "8696884766": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6276,7 +6279,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 62,
+      "total_points": 56,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -7034,6 +7037,40 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8696908997": {
+          "date": "2026-02-19 06:43 UTC",
+          "hero": "Vengeful Spirit",
+          "kda": "1/11/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 9725,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8696884766": {
+          "date": "2026-02-19 06:05 UTC",
+          "hero": "Magnus",
+          "kda": "1/8/4",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 7595,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -15102,6 +15139,29 @@
         "name": "AFK Jungler Syndrome",
         "points": -1,
         "timestamp": "2026-02-19T05:09:47+00:00"
+      }
+    ],
+    "8696876743": [],
+    "8696908997": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8696908997,
+        "hero": "Vengeful Spirit",
+        "kda": "1/11/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-19T06:43:12+00:00"
+      }
+    ],
+    "8696884766": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8696884766,
+        "hero": "Magnus",
+        "kda": "1/8/4",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-19T06:05:32+00:00"
       }
     ]
   }
