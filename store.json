@@ -754,7 +754,13 @@
     "8696604122": true,
     "8696622083": true,
     "8696637784": true,
-    "8696632434": true
+    "8696632434": true,
+    "8696662121": true,
+    "8696740008": true,
+    "8696718982": true,
+    "8696695346": true,
+    "8696668369": true,
+    "8696658220": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4020,7 +4026,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -37,
+      "total_points": -40,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4506,6 +4512,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8696662121": {
+          "date": "2026-02-18 23:04 UTC",
+          "hero": "Axe",
+          "kda": "6/9/9",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Big D Digby"
+          ],
+          "damage": 16169,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -5723,7 +5746,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -19,
+      "total_points": -21,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -6190,6 +6213,40 @@
             "I.C.B.M"
           ],
           "damage": 11441,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8696740008": {
+          "date": "2026-02-19 01:44 UTC",
+          "hero": "Undying",
+          "kda": "8/6/33",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 18744,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8696668369": {
+          "date": "2026-02-18 23:16 UTC",
+          "hero": "Omniknight",
+          "kda": "1/10/16",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 7453,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -8574,7 +8631,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 22,
+      "total_points": 27,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -9024,6 +9081,24 @@
             "KingySmurf"
           ],
           "damage": 43751,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8696658220": {
+          "date": "2026-02-18 22:58 UTC",
+          "hero": "Nature's Prophet",
+          "kda": "15/10/17",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 53589,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -14952,6 +15027,52 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-18T22:15:53+00:00"
+      }
+    ],
+    "8696662121": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8696662121,
+        "hero": "Axe",
+        "kda": "6/9/9",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-18T23:04:52+00:00"
+      }
+    ],
+    "8696740008": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8696740008,
+        "hero": "Undying",
+        "kda": "8/6/33",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-19T01:44:12+00:00"
+      }
+    ],
+    "8696718982": [],
+    "8696695346": [],
+    "8696668369": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8696668369,
+        "hero": "Omniknight",
+        "kda": "1/10/16",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-18T23:16:17+00:00"
+      }
+    ],
+    "8696658220": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8696658220,
+        "hero": "Nature's Prophet",
+        "kda": "15/10/17",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-18T22:58:02+00:00"
       }
     ]
   }
