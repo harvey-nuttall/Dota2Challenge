@@ -773,7 +773,8 @@
     "8697361767": true,
     "8697402440": true,
     "8697452579": true,
-    "8697532567": true
+    "8697532567": true,
+    "8697577442": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4549,7 +4550,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 95,
+      "total_points": 100,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5338,6 +5339,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8697577442": {
+          "date": "2026-02-19 17:19 UTC",
+          "hero": "Queen of Pain",
+          "kda": "15/10/29",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 51496,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -15347,6 +15365,17 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-19T16:45:14+00:00"
+      }
+    ],
+    "8697577442": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8697577442,
+        "hero": "Queen of Pain",
+        "kda": "15/10/29",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-19T17:19:48+00:00"
       }
     ]
   }
