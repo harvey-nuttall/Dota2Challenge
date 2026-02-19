@@ -760,7 +760,8 @@
     "8696718982": true,
     "8696695346": true,
     "8696668369": true,
-    "8696658220": true
+    "8696658220": true,
+    "8696851707": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5746,7 +5747,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -21,
+      "total_points": -22,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -6251,6 +6252,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8696851707": {
+          "date": "2026-02-19 05:09 UTC",
+          "hero": "Undying",
+          "kda": "10/10/14",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 14046,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -15073,6 +15091,17 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-18T22:58:02+00:00"
+      }
+    ],
+    "8696851707": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8696851707,
+        "hero": "Undying",
+        "kda": "10/10/14",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-19T05:09:47+00:00"
       }
     ]
   }
