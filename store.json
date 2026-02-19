@@ -778,7 +778,11 @@
     "8697663345": true,
     "8697786780": true,
     "8697762107": true,
-    "8697800923": true
+    "8697800923": true,
+    "8697871729": true,
+    "8697829893": true,
+    "8697835466": true,
+    "8697849992": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4044,7 +4048,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -40,
+      "total_points": -35,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4549,12 +4553,33 @@
               "points": -3
             }
           ]
+        },
+        "8697871729": {
+          "date": "2026-02-19 21:53 UTC",
+          "hero": "Witch Doctor",
+          "kda": "7/8/19",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby",
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Matt"
+          ],
+          "damage": 14611,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            }
+          ]
         }
       }
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 100,
+      "total_points": 105,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5362,12 +5387,33 @@
               "points": 5
             }
           ]
+        },
+        "8697871729": {
+          "date": "2026-02-19 21:53 UTC",
+          "hero": "Morphling",
+          "kda": "9/3/11",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby",
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Matt"
+          ],
+          "damage": 27356,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            }
+          ]
         }
       }
     },
     "46243750": {
       "name": "Pet poo bum bum boy",
-      "total_points": 10,
+      "total_points": 15,
       "matches": {
         "8651716538": {
           "date": "2026-01-16 16:56 UTC",
@@ -5773,6 +5819,27 @@
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8697871729": {
+          "date": "2026-02-19 21:53 UTC",
+          "hero": "Phoenix",
+          "kda": "8/3/17",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby",
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Matt"
+          ],
+          "damage": 19199,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
               "points": 5
             }
           ]
@@ -6310,7 +6377,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 53,
+      "total_points": 50,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -7121,12 +7188,29 @@
               "points": -3
             }
           ]
+        },
+        "8697849992": {
+          "date": "2026-02-19 21:25 UTC",
+          "hero": "Spirit Breaker",
+          "kda": "7/9/11",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 17734,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 93,
+      "total_points": 95,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8180,6 +8264,46 @@
               "points": 1
             }
           ]
+        },
+        "8697871729": {
+          "date": "2026-02-19 21:53 UTC",
+          "hero": "Magnus",
+          "kda": "4/6/21",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby",
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Matt"
+          ],
+          "damage": 12510,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            }
+          ]
+        },
+        "8697829893": {
+          "date": "2026-02-19 21:01 UTC",
+          "hero": "Necrophos",
+          "kda": "8/11/11",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf",
+            "Thom"
+          ],
+          "damage": 26849,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -8843,7 +8967,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 28,
+      "total_points": 38,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -9333,6 +9457,31 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8697871729": {
+          "date": "2026-02-19 21:53 UTC",
+          "hero": "Nature's Prophet",
+          "kda": "20/7/20",
+          "win": true,
+          "points": 10,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby",
+            "KingySmurf",
+            "Pet poo bum bum boy",
+            "Matt"
+          ],
+          "damage": 39573,
+          "challenges": [
+            {
+              "name": "The Unstoppable Hivemind",
+              "points": 5
+            },
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -15440,6 +15589,85 @@
         "timestamp": "2026-02-19T19:52:24+00:00"
       }
     ],
-    "8697800923": []
+    "8697800923": [],
+    "8697871729": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8697871729,
+        "hero": "Morphling",
+        "kda": "9/3/11",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-19T21:53:20+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8697871729,
+        "hero": "Witch Doctor",
+        "kda": "7/8/19",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-19T21:53:20+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8697871729,
+        "hero": "Nature's Prophet",
+        "kda": "20/7/20",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-19T21:53:20+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8697871729,
+        "hero": "Nature's Prophet",
+        "kda": "20/7/20",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-19T21:53:20+00:00"
+      },
+      {
+        "steam_id": 46243750,
+        "match_id": 8697871729,
+        "hero": "Phoenix",
+        "kda": "8/3/17",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-19T21:53:20+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8697871729,
+        "hero": "Magnus",
+        "kda": "4/6/21",
+        "name": "The Unstoppable Hivemind",
+        "points": 5,
+        "timestamp": "2026-02-19T21:53:20+00:00"
+      }
+    ],
+    "8697829893": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8697829893,
+        "hero": "Necrophos",
+        "kda": "8/11/11",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-19T21:01:24+00:00"
+      }
+    ],
+    "8697835466": [],
+    "8697849992": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8697849992,
+        "hero": "Spirit Breaker",
+        "kda": "7/9/11",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-19T21:25:29+00:00"
+      }
+    ]
   }
 }
