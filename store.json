@@ -802,7 +802,10 @@
     "8698811190": true,
     "8698882071": true,
     "8698908303": true,
-    "8699005860": true
+    "8699005860": true,
+    "8699050926": true,
+    "8699113683": true,
+    "8699086432": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2446,7 +2449,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -158,
+      "total_points": -166,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -3943,6 +3946,31 @@
               "points": 1
             }
           ]
+        },
+        "8699113683": {
+          "date": "2026-02-20 20:54 UTC",
+          "hero": "Vengeful Spirit",
+          "kda": "3/12/11",
+          "win": false,
+          "points": -8,
+          "friends_in_match": [
+            "Matt",
+            "Smithy",
+            "KingySmurf",
+            "Big D Digby",
+            "Sssmookin"
+          ],
+          "damage": 12974,
+          "challenges": [
+            {
+              "name": "Collective Brain Lag: 5-Stack Loss",
+              "points": -5
+            },
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -4119,7 +4147,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -34,
+      "total_points": -41,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4663,12 +4691,55 @@
               "points": 1
             }
           ]
+        },
+        "8699050926": {
+          "date": "2026-02-20 19:57 UTC",
+          "hero": "Pudge",
+          "kda": "3/13/21",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 16241,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8699113683": {
+          "date": "2026-02-20 20:54 UTC",
+          "hero": "Witch Doctor",
+          "kda": "1/13/10",
+          "win": false,
+          "points": -8,
+          "friends_in_match": [
+            "Matt",
+            "Smithy",
+            "KingySmurf",
+            "Big D Digby",
+            "Sssmookin"
+          ],
+          "damage": 14421,
+          "challenges": [
+            {
+              "name": "Collective Brain Lag: 5-Stack Loss",
+              "points": -5
+            },
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 111,
+      "total_points": 106,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5517,6 +5588,27 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8699113683": {
+          "date": "2026-02-20 20:54 UTC",
+          "hero": "Morphling",
+          "kda": "5/8/2",
+          "win": false,
+          "points": -5,
+          "friends_in_match": [
+            "Matt",
+            "Smithy",
+            "KingySmurf",
+            "Big D Digby",
+            "Sssmookin"
+          ],
+          "damage": 10706,
+          "challenges": [
+            {
+              "name": "Collective Brain Lag: 5-Stack Loss",
+              "points": -5
             }
           ]
         }
@@ -7373,7 +7465,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 94,
+      "total_points": 87,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8485,6 +8577,49 @@
               "points": -1
             }
           ]
+        },
+        "8699050926": {
+          "date": "2026-02-20 19:57 UTC",
+          "hero": "Juggernaut",
+          "kda": "5/9/13",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 21492,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8699113683": {
+          "date": "2026-02-20 20:54 UTC",
+          "hero": "Legion Commander",
+          "kda": "2/9/9",
+          "win": false,
+          "points": -8,
+          "friends_in_match": [
+            "Matt",
+            "Smithy",
+            "KingySmurf",
+            "Big D Digby",
+            "Sssmookin"
+          ],
+          "damage": 17254,
+          "challenges": [
+            {
+              "name": "Collective Brain Lag: 5-Stack Loss",
+              "points": -5
+            },
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -9148,7 +9283,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 39,
+      "total_points": 34,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -9680,6 +9815,27 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8699113683": {
+          "date": "2026-02-20 20:54 UTC",
+          "hero": "Nature's Prophet",
+          "kda": "8/12/9",
+          "win": false,
+          "points": -5,
+          "friends_in_match": [
+            "Matt",
+            "Smithy",
+            "KingySmurf",
+            "Big D Digby",
+            "Sssmookin"
+          ],
+          "damage": 26392,
+          "challenges": [
+            {
+              "name": "Collective Brain Lag: 5-Stack Loss",
+              "points": -5
             }
           ]
         }
@@ -15994,6 +16150,101 @@
     ],
     "8698882071": [],
     "8698908303": [],
-    "8699005860": []
+    "8699005860": [],
+    "8699050926": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8699050926,
+        "hero": "Juggernaut",
+        "kda": "5/9/13",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-20T19:57:09+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8699050926,
+        "hero": "Pudge",
+        "kda": "3/13/21",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-20T19:57:09+00:00"
+      }
+    ],
+    "8699113683": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8699113683,
+        "hero": "Legion Commander",
+        "kda": "2/9/9",
+        "name": "Collective Brain Lag: 5-Stack Loss",
+        "points": -5,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8699113683,
+        "hero": "Legion Commander",
+        "kda": "2/9/9",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8699113683,
+        "hero": "Morphling",
+        "kda": "5/8/2",
+        "name": "Collective Brain Lag: 5-Stack Loss",
+        "points": -5,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8699113683,
+        "hero": "Nature's Prophet",
+        "kda": "8/12/9",
+        "name": "Collective Brain Lag: 5-Stack Loss",
+        "points": -5,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8699113683,
+        "hero": "Witch Doctor",
+        "kda": "1/13/10",
+        "name": "Collective Brain Lag: 5-Stack Loss",
+        "points": -5,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8699113683,
+        "hero": "Witch Doctor",
+        "kda": "1/13/10",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8699113683,
+        "hero": "Vengeful Spirit",
+        "kda": "3/12/11",
+        "name": "Collective Brain Lag: 5-Stack Loss",
+        "points": -5,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8699113683,
+        "hero": "Vengeful Spirit",
+        "kda": "3/12/11",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-20T20:54:24+00:00"
+      }
+    ],
+    "8699086432": []
   }
 }
