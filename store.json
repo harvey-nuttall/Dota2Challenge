@@ -807,7 +807,10 @@
     "8699113683": true,
     "8699086432": true,
     "8699157746": true,
-    "8699146083": true
+    "8699146083": true,
+    "8699194685": true,
+    "8699196998": true,
+    "8699157775": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2451,7 +2454,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -166,
+      "total_points": -169,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -3973,6 +3976,24 @@
               "points": -3
             }
           ]
+        },
+        "8699196998": {
+          "date": "2026-02-20 22:09 UTC",
+          "hero": "Oracle",
+          "kda": "6/12/19",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Pet poo bum bum boy",
+            "Sssmookin"
+          ],
+          "damage": 5359,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -4149,7 +4170,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -41,
+      "total_points": -42,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4736,12 +4757,30 @@
               "points": -3
             }
           ]
+        },
+        "8699194685": {
+          "date": "2026-02-20 22:07 UTC",
+          "hero": "Witch Doctor",
+          "kda": "7/7/14",
+          "win": true,
+          "points": -1,
+          "friends_in_match": [
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 24043,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
         }
       }
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 106,
+      "total_points": 112,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5611,6 +5650,27 @@
             {
               "name": "Collective Brain Lag: 5-Stack Loss",
               "points": -5
+            }
+          ]
+        },
+        "8699157775": {
+          "date": "2026-02-20 21:34 UTC",
+          "hero": "Templar Assassin",
+          "kda": "24/6/9",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 89430,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -16249,6 +16309,48 @@
     ],
     "8699086432": [],
     "8699157746": [],
-    "8699146083": []
+    "8699146083": [],
+    "8699194685": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8699194685,
+        "hero": "Witch Doctor",
+        "kda": "7/7/14",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-20T22:07:10+00:00"
+      }
+    ],
+    "8699196998": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8699196998,
+        "hero": "Oracle",
+        "kda": "6/12/19",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-20T22:09:25+00:00"
+      }
+    ],
+    "8699157775": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8699157775,
+        "hero": "Templar Assassin",
+        "kda": "24/6/9",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-20T21:34:04+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8699157775,
+        "hero": "Templar Assassin",
+        "kda": "24/6/9",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-20T21:34:04+00:00"
+      }
+    ]
   }
 }
