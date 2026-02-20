@@ -784,7 +784,11 @@
     "8697835466": true,
     "8697849992": true,
     "8697899706": true,
-    "8697886359": true
+    "8697886359": true,
+    "8697964071": true,
+    "8697941713": true,
+    "8697916936": true,
+    "8697845412": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2428,7 +2432,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -159,
+      "total_points": -158,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -3908,12 +3912,29 @@
               "points": -3
             }
           ]
+        },
+        "8697916936": {
+          "date": "2026-02-19 23:07 UTC",
+          "hero": "Medusa",
+          "kda": "2/1/10",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 11558,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
     "1247397877": {
       "name": "Irishman",
-      "total_points": 0,
+      "total_points": -1,
       "matches": {
         "8661053204": {
           "date": "2026-01-23 15:43 UTC",
@@ -4060,6 +4081,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8697964071": {
+          "date": "2026-02-20 00:39 UTC",
+          "hero": "Shadow Demon",
+          "kda": "5/11/21",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Irishman"
+          ],
+          "damage": 16080,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -15767,6 +15805,30 @@
         "points": -3,
         "timestamp": "2026-02-19T22:17:59+00:00"
       }
-    ]
+    ],
+    "8697964071": [
+      {
+        "steam_id": 1247397877,
+        "match_id": 8697964071,
+        "hero": "Shadow Demon",
+        "kda": "5/11/21",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-20T00:39:03+00:00"
+      }
+    ],
+    "8697941713": [],
+    "8697916936": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8697916936,
+        "hero": "Medusa",
+        "kda": "2/1/10",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-19T23:07:48+00:00"
+      }
+    ],
+    "8697845412": []
   }
 }
