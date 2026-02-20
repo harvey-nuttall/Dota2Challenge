@@ -794,7 +794,12 @@
     "8698274026": true,
     "8698362844": true,
     "8698399926": true,
-    "8698570808": true
+    "8698570808": true,
+    "8698867144": true,
+    "8698856104": true,
+    "8698787795": true,
+    "8698724590": true,
+    "8698811190": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -7365,7 +7370,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 95,
+      "total_points": 94,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8459,6 +8464,24 @@
               "points": -3
             }
           ]
+        },
+        "8698867144": {
+          "date": "2026-02-20 17:17 UTC",
+          "hero": "Vengeful Spirit",
+          "kda": "4/15/14",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 15593,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
         }
       }
     },
@@ -9122,7 +9145,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 38,
+      "total_points": 39,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -9637,6 +9660,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8698811190": {
+          "date": "2026-02-20 16:36 UTC",
+          "hero": "Nature's Prophet",
+          "kda": "9/3/19",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 31874,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -15922,6 +15962,31 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-20T13:44:19+00:00"
+      }
+    ],
+    "8698867144": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8698867144,
+        "hero": "Vengeful Spirit",
+        "kda": "4/15/14",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-20T17:17:10+00:00"
+      }
+    ],
+    "8698856104": [],
+    "8698787795": [],
+    "8698724590": [],
+    "8698811190": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8698811190,
+        "hero": "Nature's Prophet",
+        "kda": "9/3/19",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-20T16:36:09+00:00"
       }
     ]
   }
