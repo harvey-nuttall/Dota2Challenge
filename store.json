@@ -810,7 +810,8 @@
     "8699146083": true,
     "8699194685": true,
     "8699196998": true,
-    "8699157775": true
+    "8699157775": true,
+    "8699223561": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4780,7 +4781,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 112,
+      "total_points": 109,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5671,6 +5672,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8699223561": {
+          "date": "2026-02-20 22:36 UTC",
+          "hero": "Templar Assassin",
+          "kda": "2/10/4",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Smithy"
+          ],
+          "damage": 17813,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -7527,7 +7546,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 87,
+      "total_points": 84,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8677,6 +8696,24 @@
               "name": "Collective Brain Lag: 5-Stack Loss",
               "points": -5
             },
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8699223561": {
+          "date": "2026-02-20 22:36 UTC",
+          "hero": "Nyx Assassin",
+          "kda": "7/10/5",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Smithy"
+          ],
+          "damage": 15463,
+          "challenges": [
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
@@ -16350,6 +16387,26 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-20T21:34:04+00:00"
+      }
+    ],
+    "8699223561": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8699223561,
+        "hero": "Nyx Assassin",
+        "kda": "7/10/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-20T22:36:25+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8699223561,
+        "hero": "Templar Assassin",
+        "kda": "2/10/4",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-20T22:36:25+00:00"
       }
     ]
   }
