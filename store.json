@@ -834,7 +834,9 @@
     "8700369156": true,
     "8700504076": true,
     "8700463889": true,
-    "8700418449": true
+    "8700418449": true,
+    "8700535929": true,
+    "8700550170": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2495,7 +2497,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -165,
+      "total_points": -164,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4071,6 +4073,23 @@
               "points": 5
             }
           ]
+        },
+        "8700550170": {
+          "date": "2026-02-21 18:34 UTC",
+          "hero": "Razor",
+          "kda": "8/4/21",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 24147,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -4247,7 +4266,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -46,
+      "total_points": -47,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4923,6 +4942,25 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8700535929": {
+          "date": "2026-02-21 18:24 UTC",
+          "hero": "Pudge",
+          "kda": "4/15/12",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Matt",
+            "Smithy",
+            "Big D Digby"
+          ],
+          "damage": 20251,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -16988,6 +17026,28 @@
     ],
     "8700504076": [],
     "8700463889": [],
-    "8700418449": []
+    "8700418449": [],
+    "8700535929": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8700535929,
+        "hero": "Pudge",
+        "kda": "4/15/12",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-21T18:24:34+00:00"
+      }
+    ],
+    "8700550170": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8700550170,
+        "hero": "Razor",
+        "kda": "8/4/21",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T18:34:59+00:00"
+      }
+    ]
   }
 }
