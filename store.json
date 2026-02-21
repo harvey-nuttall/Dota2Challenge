@@ -830,7 +830,8 @@
     "8699982318": true,
     "8700041095": true,
     "8700230225": true,
-    "8700315032": true
+    "8700315032": true,
+    "8700369156": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4926,7 +4927,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 109,
+      "total_points": 104,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5835,6 +5836,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8700369156": {
+          "date": "2026-02-21 16:31 UTC",
+          "hero": "Lion",
+          "kda": "5/18/29",
+          "win": false,
+          "points": -5,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 22166,
+          "challenges": [
+            {
+              "name": "Tactical Throw: Lost with Megas",
+              "points": -5
             }
           ]
         }
@@ -16952,6 +16970,17 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-21T15:56:40+00:00"
+      }
+    ],
+    "8700369156": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8700369156,
+        "hero": "Lion",
+        "kda": "5/18/29",
+        "name": "Tactical Throw: Lost with Megas",
+        "points": -5,
+        "timestamp": "2026-02-21T16:31:24+00:00"
       }
     ]
   }
