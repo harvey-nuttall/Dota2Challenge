@@ -823,7 +823,8 @@
     "8699644908": true,
     "8699707796": true,
     "8699726958": true,
-    "8699812887": true
+    "8699812887": true,
+    "8699860423": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5798,7 +5799,7 @@
     },
     "46243750": {
       "name": "Pet poo bum bum boy",
-      "total_points": 15,
+      "total_points": 21,
       "matches": {
         "8651716538": {
           "date": "2026-01-16 16:56 UTC",
@@ -6226,6 +6227,27 @@
             {
               "name": "The Unstoppable Hivemind",
               "points": 5
+            }
+          ]
+        },
+        "8699860423": {
+          "date": "2026-02-21 10:49 UTC",
+          "hero": "Zeus",
+          "kda": "15/4/17",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Pet poo bum bum boy"
+          ],
+          "damage": 48685,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -16676,6 +16698,26 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-21T10:07:29+00:00"
+      }
+    ],
+    "8699860423": [
+      {
+        "steam_id": 46243750,
+        "match_id": 8699860423,
+        "hero": "Zeus",
+        "kda": "15/4/17",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-21T10:49:23+00:00"
+      },
+      {
+        "steam_id": 46243750,
+        "match_id": 8699860423,
+        "hero": "Zeus",
+        "kda": "15/4/17",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T10:49:23+00:00"
       }
     ]
   }
