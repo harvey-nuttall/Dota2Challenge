@@ -829,7 +829,8 @@
     "8699971980": true,
     "8699982318": true,
     "8700041095": true,
-    "8700230225": true
+    "8700230225": true,
+    "8700315032": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4242,7 +4243,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -47,
+      "total_points": -46,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4895,6 +4896,25 @@
             "Big D Digby"
           ],
           "damage": 20225,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8700315032": {
+          "date": "2026-02-21 15:56 UTC",
+          "hero": "Axe",
+          "kda": "6/13/25",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 25406,
           "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
@@ -7726,7 +7746,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 90,
+      "total_points": 91,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8955,6 +8975,25 @@
               "points": 1
             }
           ]
+        },
+        "8700315032": {
+          "date": "2026-02-21 15:56 UTC",
+          "hero": "Skywrath Mage",
+          "kda": "6/11/30",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 31374,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -9618,7 +9657,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 43,
+      "total_points": 44,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -10211,6 +10250,25 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8700315032": {
+          "date": "2026-02-21 15:56 UTC",
+          "hero": "Drow Ranger",
+          "kda": "14/6/18",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 45462,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -16865,6 +16923,35 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-21T15:03:04+00:00"
+      }
+    ],
+    "8700315032": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8700315032,
+        "hero": "Skywrath Mage",
+        "kda": "6/11/30",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T15:56:40+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8700315032,
+        "hero": "Axe",
+        "kda": "6/13/25",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T15:56:40+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8700315032,
+        "hero": "Drow Ranger",
+        "kda": "14/6/18",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T15:56:40+00:00"
       }
     ]
   }
