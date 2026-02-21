@@ -842,7 +842,8 @@
     "8700728724": true,
     "8700694799": true,
     "8700692281": true,
-    "8700780035": true
+    "8700780035": true,
+    "8700790877": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6943,7 +6944,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 40,
+      "total_points": 45,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -7872,6 +7873,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8700790877": {
+          "date": "2026-02-21 21:49 UTC",
+          "hero": "Legion Commander",
+          "kda": "18/10/22",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 47522,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -17249,6 +17267,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-21T21:38:59+00:00"
+      }
+    ],
+    "8700790877": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8700790877,
+        "hero": "Legion Commander",
+        "kda": "18/10/22",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-21T21:49:34+00:00"
       }
     ]
   }
