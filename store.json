@@ -827,7 +827,8 @@
     "8699860423": true,
     "8699891497": true,
     "8699971980": true,
-    "8699982318": true
+    "8699982318": true,
+    "8700041095": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -9580,7 +9581,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 38,
+      "total_points": 43,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -10155,6 +10156,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8700041095": {
+          "date": "2026-02-21 13:04 UTC",
+          "hero": "Drow Ranger",
+          "kda": "18/6/11",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 54996,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -16778,6 +16797,17 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-21T12:24:25+00:00"
+      }
+    ],
+    "8700041095": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8700041095,
+        "hero": "Drow Ranger",
+        "kda": "18/6/11",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-21T13:04:30+00:00"
       }
     ]
   }
