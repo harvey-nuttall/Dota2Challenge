@@ -816,7 +816,8 @@
     "8699338961": true,
     "8699434796": true,
     "8699398437": true,
-    "8699372526": true
+    "8699372526": true,
+    "8699513013": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1386,7 +1387,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -398,
+      "total_points": -401,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2453,6 +2454,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8699513013": {
+          "date": "2026-02-21 05:02 UTC",
+          "hero": "Tidehunter",
+          "kda": "1/12/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 13944,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -16568,6 +16586,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-21T01:58:03+00:00"
+      }
+    ],
+    "8699513013": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8699513013,
+        "hero": "Tidehunter",
+        "kda": "1/12/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-21T05:02:54+00:00"
       }
     ]
   }
