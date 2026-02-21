@@ -825,7 +825,9 @@
     "8699726958": true,
     "8699812887": true,
     "8699860423": true,
-    "8699891497": true
+    "8699891497": true,
+    "8699971980": true,
+    "8699982318": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6785,7 +6787,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 42,
+      "total_points": 43,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -7676,6 +7678,23 @@
             "Bonzaro"
           ],
           "damage": 21066,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8699982318": {
+          "date": "2026-02-21 12:24 UTC",
+          "hero": "Pudge",
+          "kda": "10/12/30",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 37010,
           "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
@@ -16747,6 +16766,18 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-21T11:15:20+00:00"
+      }
+    ],
+    "8699971980": [],
+    "8699982318": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8699982318,
+        "hero": "Pudge",
+        "kda": "10/12/30",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T12:24:25+00:00"
       }
     ]
   }
