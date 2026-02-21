@@ -828,7 +828,8 @@
     "8699891497": true,
     "8699971980": true,
     "8699982318": true,
-    "8700041095": true
+    "8700041095": true,
+    "8700230225": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4241,7 +4242,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -48,
+      "total_points": -47,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -4880,6 +4881,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8700230225": {
+          "date": "2026-02-21 15:03 UTC",
+          "hero": "Witch Doctor",
+          "kda": "6/4/23",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 20225,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -7707,7 +7726,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 89,
+      "total_points": 90,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -8913,6 +8932,24 @@
               "name": "Pudge's Wet Dream",
               "points": 5
             },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8700230225": {
+          "date": "2026-02-21 15:03 UTC",
+          "hero": "Luna",
+          "kda": "10/5/11",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 26989,
+          "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -16808,6 +16845,26 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-21T13:04:30+00:00"
+      }
+    ],
+    "8700230225": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8700230225,
+        "hero": "Luna",
+        "kda": "10/5/11",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T15:03:04+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8700230225,
+        "hero": "Witch Doctor",
+        "kda": "6/4/23",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-21T15:03:04+00:00"
       }
     ]
   }
