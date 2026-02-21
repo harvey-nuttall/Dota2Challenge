@@ -840,7 +840,9 @@
     "8700610681": true,
     "8700675698": true,
     "8700728724": true,
-    "8700694799": true
+    "8700694799": true,
+    "8700692281": true,
+    "8700780035": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4989,7 +4991,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 104,
+      "total_points": 101,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5915,6 +5917,23 @@
             {
               "name": "Tactical Throw: Lost with Megas",
               "points": -5
+            }
+          ]
+        },
+        "8700692281": {
+          "date": "2026-02-21 20:22 UTC",
+          "hero": "Tusk",
+          "kda": "5/14/12",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 13954,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -7860,7 +7879,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 90,
+      "total_points": 87,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -9125,6 +9144,24 @@
               "points": -1
             }
           ]
+        },
+        "8700780035": {
+          "date": "2026-02-21 21:38 UTC",
+          "hero": "Skywrath Mage",
+          "kda": "1/12/15",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 11875,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -9788,7 +9825,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 44,
+      "total_points": 41,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -10400,6 +10437,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8700780035": {
+          "date": "2026-02-21 21:38 UTC",
+          "hero": "Drow Ranger",
+          "kda": "12/8/9",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 39130,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -17163,6 +17218,37 @@
         "name": "Tactical Throw: Lost with Megas",
         "points": -5,
         "timestamp": "2026-02-21T20:24:14+00:00"
+      }
+    ],
+    "8700692281": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8700692281,
+        "hero": "Tusk",
+        "kda": "5/14/12",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-21T20:22:09+00:00"
+      }
+    ],
+    "8700780035": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8700780035,
+        "hero": "Skywrath Mage",
+        "kda": "1/12/15",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-21T21:38:59+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8700780035,
+        "hero": "Drow Ranger",
+        "kda": "12/8/9",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-21T21:38:59+00:00"
       }
     ]
   }
