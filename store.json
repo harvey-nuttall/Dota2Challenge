@@ -879,7 +879,9 @@
     "8702374378": true,
     "8702355718": true,
     "8702433968": true,
-    "8702433625": true
+    "8702433625": true,
+    "8702471236": true,
+    "8702476859": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4415,7 +4417,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -47,
+      "total_points": -48,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5112,12 +5114,30 @@
               "points": -1
             }
           ]
+        },
+        "8702471236": {
+          "date": "2026-02-22 23:02 UTC",
+          "hero": "Lich",
+          "kda": "12/10/34",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "KingySmurf",
+            "Big D Digby"
+          ],
+          "damage": 20603,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
         }
       }
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 98,
+      "total_points": 102,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6112,6 +6132,27 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8702476859": {
+          "date": "2026-02-22 23:10 UTC",
+          "hero": "Morphling",
+          "kda": "9/1/10",
+          "win": true,
+          "points": 4,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 15977,
+          "challenges": [
+            {
+              "name": "Speedrunner Vibes: <25m Win",
+              "points": 3
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -10143,7 +10184,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 61,
+      "total_points": 66,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -10839,6 +10880,24 @@
             "KingySmurf"
           ],
           "damage": 82369,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8702471236": {
+          "date": "2026-02-22 23:02 UTC",
+          "hero": "Drow Ranger",
+          "kda": "15/10/11",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf",
+            "Big D Digby"
+          ],
+          "damage": 29390,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -17882,6 +17941,46 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-22T22:16:05+00:00"
+      }
+    ],
+    "8702471236": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8702471236,
+        "hero": "Drow Ranger",
+        "kda": "15/10/11",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-22T23:02:49+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8702471236,
+        "hero": "Lich",
+        "kda": "12/10/34",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-22T23:02:49+00:00"
+      }
+    ],
+    "8702476859": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8702476859,
+        "hero": "Morphling",
+        "kda": "9/1/10",
+        "name": "Speedrunner Vibes: <25m Win",
+        "points": 3,
+        "timestamp": "2026-02-22T23:10:50+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8702476859,
+        "hero": "Morphling",
+        "kda": "9/1/10",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-22T23:10:50+00:00"
       }
     ]
   }
