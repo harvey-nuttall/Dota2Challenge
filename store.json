@@ -878,7 +878,8 @@
     "8702298012": true,
     "8702374378": true,
     "8702355718": true,
-    "8702433968": true
+    "8702433968": true,
+    "8702433625": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5116,7 +5117,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 93,
+      "total_points": 98,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6094,6 +6095,23 @@
             {
               "name": "Sub-20 Minute Trash: Stomped",
               "points": -5
+            }
+          ]
+        },
+        "8702433625": {
+          "date": "2026-02-22 22:16 UTC",
+          "hero": "Medusa",
+          "kda": "16/4/15",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 36665,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -17854,6 +17872,17 @@
         "timestamp": "2026-02-22T20:58:00+00:00"
       }
     ],
-    "8702433968": []
+    "8702433968": [],
+    "8702433625": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8702433625,
+        "hero": "Medusa",
+        "kda": "16/4/15",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-22T22:16:05+00:00"
+      }
+    ]
   }
 }
