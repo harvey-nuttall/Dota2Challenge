@@ -855,7 +855,9 @@
     "8701360541": true,
     "8701454892": true,
     "8701517446": true,
-    "8701600401": true
+    "8701600401": true,
+    "8701706950": true,
+    "8701663564": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5038,7 +5040,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 101,
+      "total_points": 98,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5977,6 +5979,23 @@
             "Smithy"
           ],
           "damage": 13954,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8701706950": {
+          "date": "2026-02-22 13:43 UTC",
+          "hero": "Shadow Fiend",
+          "kda": "3/7/6",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 11034,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -7996,7 +8015,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 87,
+      "total_points": 88,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -9277,6 +9296,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8701663564": {
+          "date": "2026-02-22 13:18 UTC",
+          "hero": "Juggernaut",
+          "kda": "7/4/16",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt"
+          ],
+          "damage": 39254,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -17440,6 +17476,28 @@
     "8701360541": [],
     "8701454892": [],
     "8701517446": [],
-    "8701600401": []
+    "8701600401": [],
+    "8701706950": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8701706950,
+        "hero": "Shadow Fiend",
+        "kda": "3/7/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-22T13:43:44+00:00"
+      }
+    ],
+    "8701663564": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8701663564,
+        "hero": "Juggernaut",
+        "kda": "7/4/16",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-22T13:18:16+00:00"
+      }
+    ]
   }
 }
