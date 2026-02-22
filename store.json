@@ -850,7 +850,8 @@
     "8700962232": true,
     "8700964546": true,
     "8701028196": true,
-    "8700994810": true
+    "8700994810": true,
+    "8701076523": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1420,7 +1421,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -401,
+      "total_points": -400,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2504,6 +2505,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8701076523": {
+          "date": "2026-02-22 04:33 UTC",
+          "hero": "Zeus",
+          "kda": "7/11/23",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 45101,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -17402,6 +17420,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -1,
         "timestamp": "2026-02-22T02:34:54+00:00"
+      }
+    ],
+    "8701076523": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8701076523,
+        "hero": "Zeus",
+        "kda": "7/11/23",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-22T04:33:44+00:00"
       }
     ]
   }
