@@ -843,7 +843,8 @@
     "8700694799": true,
     "8700692281": true,
     "8700780035": true,
-    "8700790877": true
+    "8700790877": true,
+    "8700934454": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6944,7 +6945,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 45,
+      "total_points": 44,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -7890,6 +7891,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8700934454": {
+          "date": "2026-02-22 00:59 UTC",
+          "hero": "Centaur Warrunner",
+          "kda": "1/10/7",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 19029,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -17278,6 +17296,17 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-21T21:49:34+00:00"
+      }
+    ],
+    "8700934454": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8700934454,
+        "hero": "Centaur Warrunner",
+        "kda": "1/10/7",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-22T00:59:29+00:00"
       }
     ]
   }
