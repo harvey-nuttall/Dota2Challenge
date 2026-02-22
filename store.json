@@ -844,7 +844,13 @@
     "8700692281": true,
     "8700780035": true,
     "8700790877": true,
-    "8700934454": true
+    "8700934454": true,
+    "8701039394": true,
+    "8700995752": true,
+    "8700962232": true,
+    "8700964546": true,
+    "8701028196": true,
+    "8700994810": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2505,7 +2511,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -169,
+      "total_points": -170,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4113,6 +4119,23 @@
             {
               "name": "Tactical Throw: Lost with Megas",
               "points": -5
+            }
+          ]
+        },
+        "8700994810": {
+          "date": "2026-02-22 02:34 UTC",
+          "hero": "Dazzle",
+          "kda": "5/11/17",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 22598,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -6945,7 +6968,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 44,
+      "total_points": 38,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -7908,6 +7931,42 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8701039394": {
+          "date": "2026-02-22 03:40 UTC",
+          "hero": "Tidehunter",
+          "kda": "9/4/19",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Bonzaro",
+            "Dreamer",
+            "KingySmurf"
+          ],
+          "damage": 44522,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8700964546": {
+          "date": "2026-02-22 01:48 UTC",
+          "hero": "Spirit Breaker",
+          "kda": "5/11/29",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 17753,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -17307,6 +17366,42 @@
         "name": "AFK Jungler Syndrome",
         "points": -1,
         "timestamp": "2026-02-22T00:59:29+00:00"
+      }
+    ],
+    "8701039394": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8701039394,
+        "hero": "Tidehunter",
+        "kda": "9/4/19",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-22T03:40:13+00:00"
+      }
+    ],
+    "8700995752": [],
+    "8700962232": [],
+    "8700964546": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8700964546,
+        "hero": "Spirit Breaker",
+        "kda": "5/11/29",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-22T01:48:18+00:00"
+      }
+    ],
+    "8701028196": [],
+    "8700994810": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8700994810,
+        "hero": "Dazzle",
+        "kda": "5/11/17",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-22T02:34:54+00:00"
       }
     ]
   }
