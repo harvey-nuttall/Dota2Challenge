@@ -875,7 +875,9 @@
     "8702133373": true,
     "8702240660": true,
     "8702287339": true,
-    "8702298012": true
+    "8702298012": true,
+    "8702374378": true,
+    "8702355718": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -10122,7 +10124,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 56,
+      "total_points": 61,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -10801,6 +10803,23 @@
             "KingySmurf"
           ],
           "damage": 50392,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8702355718": {
+          "date": "2026-02-22 20:58 UTC",
+          "hero": "Drow Ranger",
+          "kda": "29/11/13",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 82369,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -17821,6 +17840,18 @@
       }
     ],
     "8702287339": [],
-    "8702298012": []
+    "8702298012": [],
+    "8702374378": [],
+    "8702355718": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8702355718,
+        "hero": "Drow Ranger",
+        "kda": "29/11/13",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-22T20:58:00+00:00"
+      }
+    ]
   }
 }
