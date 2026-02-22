@@ -867,7 +867,9 @@
     "8701936636": true,
     "8702007307": true,
     "8701953284": true,
-    "8701952545": true
+    "8701952545": true,
+    "8702016591": true,
+    "8702067619": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5105,7 +5107,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 98,
+      "total_points": 93,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6065,6 +6067,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8702067619": {
+          "date": "2026-02-22 17:23 UTC",
+          "hero": "Viper",
+          "kda": "7/8/2",
+          "win": false,
+          "points": -5,
+          "friends_in_match": [
+            "Smithy",
+            "Matt"
+          ],
+          "damage": 9878,
+          "challenges": [
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
             }
           ]
         }
@@ -8080,7 +8100,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 87,
+      "total_points": 82,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -9398,6 +9418,24 @@
               "points": -1
             }
           ]
+        },
+        "8702067619": {
+          "date": "2026-02-22 17:23 UTC",
+          "hero": "Crystal Maiden",
+          "kda": "2/8/11",
+          "win": false,
+          "points": -5,
+          "friends_in_match": [
+            "Smithy",
+            "Matt"
+          ],
+          "damage": 5782,
+          "challenges": [
+            {
+              "name": "Sub-20 Minute Trash: Stomped",
+              "points": -5
+            }
+          ]
         }
       }
     },
@@ -10061,7 +10099,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 51,
+      "total_points": 56,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -10722,6 +10760,24 @@
             "KingySmurf"
           ],
           "damage": 49032,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8702016591": {
+          "date": "2026-02-22 16:49 UTC",
+          "hero": "Drow Ranger",
+          "kda": "15/3/12",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 50392,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -17694,6 +17750,37 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-22T16:08:36+00:00"
+      }
+    ],
+    "8702016591": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8702016591,
+        "hero": "Drow Ranger",
+        "kda": "15/3/12",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-22T16:49:40+00:00"
+      }
+    ],
+    "8702067619": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8702067619,
+        "hero": "Viper",
+        "kda": "7/8/2",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-22T17:23:44+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8702067619,
+        "hero": "Crystal Maiden",
+        "kda": "2/8/11",
+        "name": "Sub-20 Minute Trash: Stomped",
+        "points": -5,
+        "timestamp": "2026-02-22T17:23:44+00:00"
       }
     ]
   }
