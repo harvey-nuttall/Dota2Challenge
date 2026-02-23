@@ -887,7 +887,10 @@
     "8703673054": true,
     "8703614995": true,
     "8703723032": true,
-    "8703752555": true
+    "8703752555": true,
+    "8703825456": true,
+    "8703825686": true,
+    "8703820404": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -918,7 +921,7 @@
     },
     "330017819": {
       "name": "Sheep",
-      "total_points": -17,
+      "total_points": -20,
       "matches": {
         "8651483726": {
           "date": "2026-01-16 14:21 UTC",
@@ -1354,12 +1357,30 @@
               "points": 1
             }
           ]
+        },
+        "8703825456": {
+          "date": "2026-02-23 20:30 UTC",
+          "hero": "Clockwerk",
+          "kda": "1/14/5",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Was",
+            "Sheep"
+          ],
+          "damage": 11958,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
     "78252078": {
       "name": "Was",
-      "total_points": 8,
+      "total_points": 7,
       "matches": {
         "8652990412": {
           "date": "2026-01-17 14:20 UTC",
@@ -1450,6 +1471,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8703825456": {
+          "date": "2026-02-23 20:30 UTC",
+          "hero": "Lich",
+          "kda": "2/12/8",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Was",
+            "Sheep"
+          ],
+          "damage": 14137,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -4423,7 +4462,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -46,
+      "total_points": -49,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5172,6 +5211,25 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8703825686": {
+          "date": "2026-02-23 20:30 UTC",
+          "hero": "Ogre Magi",
+          "kda": "4/5/6",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 21316,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -8244,7 +8302,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 89,
+      "total_points": 88,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -9620,6 +9678,25 @@
               "points": 1
             }
           ]
+        },
+        "8703825686": {
+          "date": "2026-02-23 20:30 UTC",
+          "hero": "Luna",
+          "kda": "1/3/2",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 22577,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
         }
       }
     },
@@ -10283,7 +10360,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 66,
+      "total_points": 63,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -11001,6 +11078,25 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8703825686": {
+          "date": "2026-02-23 20:30 UTC",
+          "hero": "Marci",
+          "kda": "1/13/6",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby",
+            "KingySmurf"
+          ],
+          "damage": 15482,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -18144,6 +18240,56 @@
         "timestamp": "2026-02-23T18:57:06+00:00"
       }
     ],
-    "8703752555": []
+    "8703752555": [],
+    "8703825456": [
+      {
+        "steam_id": 78252078,
+        "match_id": 8703825456,
+        "hero": "Lich",
+        "kda": "2/12/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-23T20:30:30+00:00"
+      },
+      {
+        "steam_id": 330017819,
+        "match_id": 8703825456,
+        "hero": "Clockwerk",
+        "kda": "1/14/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-23T20:30:30+00:00"
+      }
+    ],
+    "8703825686": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8703825686,
+        "hero": "Luna",
+        "kda": "1/3/2",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-23T20:30:55+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8703825686,
+        "hero": "Ogre Magi",
+        "kda": "4/5/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-23T20:30:55+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8703825686,
+        "hero": "Marci",
+        "kda": "1/13/6",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-23T20:30:55+00:00"
+      }
+    ],
+    "8703820404": []
   }
 }
