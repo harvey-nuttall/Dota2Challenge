@@ -883,7 +883,9 @@
     "8702471236": true,
     "8702476859": true,
     "8702578750": true,
-    "8703361472": true
+    "8703361472": true,
+    "8703673054": true,
+    "8703614995": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4419,7 +4421,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -48,
+      "total_points": -47,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5132,6 +5134,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8703673054": {
+          "date": "2026-02-23 18:16 UTC",
+          "hero": "Pudge",
+          "kda": "7/10/15",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 20576,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -8204,7 +8224,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 82,
+      "total_points": 83,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -9538,6 +9558,24 @@
             {
               "name": "Sub-20 Minute Trash: Stomped",
               "points": -5
+            }
+          ]
+        },
+        "8703673054": {
+          "date": "2026-02-23 18:16 UTC",
+          "hero": "Luna",
+          "kda": "11/1/11",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 29120,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -18013,6 +18051,27 @@
         "points": -3,
         "timestamp": "2026-02-23T14:33:15+00:00"
       }
-    ]
+    ],
+    "8703673054": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8703673054,
+        "hero": "Luna",
+        "kda": "11/1/11",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-23T18:16:41+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8703673054,
+        "hero": "Pudge",
+        "kda": "7/10/15",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-23T18:16:41+00:00"
+      }
+    ],
+    "8703614995": []
   }
 }
