@@ -885,7 +885,9 @@
     "8702578750": true,
     "8703361472": true,
     "8703673054": true,
-    "8703614995": true
+    "8703614995": true,
+    "8703723032": true,
+    "8703752555": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4421,7 +4423,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -47,
+      "total_points": -46,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5148,6 +5150,24 @@
             "Big D Digby"
           ],
           "damage": 20576,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8703723032": {
+          "date": "2026-02-23 18:57 UTC",
+          "hero": "Tidehunter",
+          "kda": "7/12/30",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 35986,
           "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
@@ -8224,7 +8244,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 83,
+      "total_points": 89,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -9573,6 +9593,28 @@
           ],
           "damage": 29120,
           "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8703723032": {
+          "date": "2026-02-23 18:57 UTC",
+          "hero": "Gyrocopter",
+          "kda": "18/11/13",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "Matt",
+            "Big D Digby"
+          ],
+          "damage": 70139,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
@@ -18072,6 +18114,36 @@
         "timestamp": "2026-02-23T18:16:41+00:00"
       }
     ],
-    "8703614995": []
+    "8703614995": [],
+    "8703723032": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8703723032,
+        "hero": "Gyrocopter",
+        "kda": "18/11/13",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-23T18:57:06+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8703723032,
+        "hero": "Gyrocopter",
+        "kda": "18/11/13",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-23T18:57:06+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8703723032,
+        "hero": "Tidehunter",
+        "kda": "7/12/30",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-23T18:57:06+00:00"
+      }
+    ],
+    "8703752555": []
   }
 }
