@@ -891,7 +891,10 @@
     "8703825456": true,
     "8703825686": true,
     "8703820404": true,
-    "8703862446": true
+    "8703862446": true,
+    "8703898382": true,
+    "8703900554": true,
+    "8703880004": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2605,7 +2608,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -164,
+      "total_points": -166,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4282,6 +4285,27 @@
           ],
           "damage": 19470,
           "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8703900554": {
+          "date": "2026-02-23 21:59 UTC",
+          "hero": "Silencer",
+          "kda": "2/11/24",
+          "win": true,
+          "points": -2,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 18688,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            },
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
@@ -6734,7 +6758,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -22,
+      "total_points": -25,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -7256,6 +7280,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8703898382": {
+          "date": "2026-02-23 21:56 UTC",
+          "hero": "Undying",
+          "kda": "4/14/18",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 16058,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -10361,7 +10402,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 63,
+      "total_points": 68,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -11098,6 +11139,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8703880004": {
+          "date": "2026-02-23 21:32 UTC",
+          "hero": "Drow Ranger",
+          "kda": "15/9/10",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 45300,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -18292,6 +18350,48 @@
       }
     ],
     "8703820404": [],
-    "8703862446": []
+    "8703862446": [],
+    "8703898382": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8703898382,
+        "hero": "Undying",
+        "kda": "4/14/18",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-23T21:56:10+00:00"
+      }
+    ],
+    "8703900554": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8703900554,
+        "hero": "Silencer",
+        "kda": "2/11/24",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-23T21:59:19+00:00"
+      },
+      {
+        "steam_id": 211160675,
+        "match_id": 8703900554,
+        "hero": "Silencer",
+        "kda": "2/11/24",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-23T21:59:19+00:00"
+      }
+    ],
+    "8703880004": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8703880004,
+        "hero": "Drow Ranger",
+        "kda": "15/9/10",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-23T21:32:09+00:00"
+      }
+    ]
   }
 }
