@@ -919,7 +919,8 @@
     "8704933431": true,
     "8705151064": true,
     "8705214208": true,
-    "8705185550": true
+    "8705185550": true,
+    "8705203601": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2633,7 +2634,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -186,
+      "total_points": -181,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4406,6 +4407,24 @@
             {
               "name": "The Spectator (0 Kills)",
               "points": -20
+            }
+          ]
+        },
+        "8705203601": {
+          "date": "2026-02-24 21:28 UTC",
+          "hero": "Drow Ranger",
+          "kda": "15/10/10",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Sssmookin",
+            "Big D Digby"
+          ],
+          "damage": 68990,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -18831,6 +18850,17 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-24T21:06:28+00:00"
+      }
+    ],
+    "8705203601": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8705203601,
+        "hero": "Drow Ranger",
+        "kda": "15/10/10",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-24T21:28:28+00:00"
       }
     ]
   }
