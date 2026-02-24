@@ -895,7 +895,10 @@
     "8703898382": true,
     "8703900554": true,
     "8703880004": true,
-    "8703939146": true
+    "8703939146": true,
+    "8704023562": true,
+    "8703990937": true,
+    "8703932063": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6759,7 +6762,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -25,
+      "total_points": -21,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -7298,6 +7301,40 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8703990937": {
+          "date": "2026-02-24 00:36 UTC",
+          "hero": "Mars",
+          "kda": "4/12/17",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 10707,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            }
+          ]
+        },
+        "8703932063": {
+          "date": "2026-02-23 22:46 UTC",
+          "hero": "Tiny",
+          "kda": "15/10/25",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 68892,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -18394,6 +18431,29 @@
         "timestamp": "2026-02-23T21:32:09+00:00"
       }
     ],
-    "8703939146": []
+    "8703939146": [],
+    "8704023562": [],
+    "8703990937": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8703990937,
+        "hero": "Mars",
+        "kda": "4/12/17",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-24T00:36:34+00:00"
+      }
+    ],
+    "8703932063": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8703932063,
+        "hero": "Tiny",
+        "kda": "15/10/25",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-23T22:46:45+00:00"
+      }
+    ]
   }
 }
