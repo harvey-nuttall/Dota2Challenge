@@ -898,7 +898,10 @@
     "8703939146": true,
     "8704023562": true,
     "8703990937": true,
-    "8703932063": true
+    "8703932063": true,
+    "8704078184": true,
+    "8704045588": true,
+    "8704034324": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2612,7 +2615,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -166,
+      "total_points": -167,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4313,6 +4316,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8704034324": {
+          "date": "2026-02-24 01:58 UTC",
+          "hero": "Winter Wyvern",
+          "kda": "3/14/25",
+          "win": true,
+          "points": -1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 33422,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -6762,7 +6782,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -21,
+      "total_points": -20,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -7335,6 +7355,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8704078184": {
+          "date": "2026-02-24 03:15 UTC",
+          "hero": "Axe",
+          "kda": "9/13/22",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 47818,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -18453,6 +18490,29 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-23T22:46:45+00:00"
+      }
+    ],
+    "8704078184": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8704078184,
+        "hero": "Axe",
+        "kda": "9/13/22",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-24T03:15:14+00:00"
+      }
+    ],
+    "8704045588": [],
+    "8704034324": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8704034324,
+        "hero": "Winter Wyvern",
+        "kda": "3/14/25",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-24T01:58:48+00:00"
       }
     ]
   }
