@@ -917,7 +917,9 @@
     "8704883949": true,
     "8704899641": true,
     "8704933431": true,
-    "8705151064": true
+    "8705151064": true,
+    "8705214208": true,
+    "8705185550": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -10620,7 +10622,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 73,
+      "total_points": 79,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -11391,6 +11393,27 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8705185550": {
+          "date": "2026-02-24 21:06 UTC",
+          "hero": "Drow Ranger",
+          "kda": "17/8/12",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 46496,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -18787,6 +18810,27 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-24T20:28:30+00:00"
+      }
+    ],
+    "8705214208": [],
+    "8705185550": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8705185550,
+        "hero": "Drow Ranger",
+        "kda": "17/8/12",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-24T21:06:28+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8705185550,
+        "hero": "Drow Ranger",
+        "kda": "17/8/12",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-24T21:06:28+00:00"
       }
     ]
   }
