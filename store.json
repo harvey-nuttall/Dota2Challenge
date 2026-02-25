@@ -924,7 +924,9 @@
     "8705261190": true,
     "8705403062": true,
     "8705379312": true,
-    "8705345270": true
+    "8705345270": true,
+    "8705467116": true,
+    "8705437208": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -6895,7 +6897,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -32,
+      "total_points": -35,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -7540,6 +7542,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8705437208": {
+          "date": "2026-02-25 04:20 UTC",
+          "hero": "Undying",
+          "kda": "7/12/11",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 10794,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -18897,6 +18916,18 @@
         "timestamp": "2026-02-25T02:39:11+00:00"
       }
     ],
-    "8705345270": []
+    "8705345270": [],
+    "8705467116": [],
+    "8705437208": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8705437208,
+        "hero": "Undying",
+        "kda": "7/12/11",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-25T04:20:26+00:00"
+      }
+    ]
   }
 }
