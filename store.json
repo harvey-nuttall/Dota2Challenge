@@ -941,7 +941,11 @@
     "8706374116": true,
     "8706502650": true,
     "8706455028": true,
-    "8706455843": true
+    "8706455843": true,
+    "8706526933": true,
+    "8706552397": true,
+    "8706523979": true,
+    "8706452315": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5470,7 +5474,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 107,
+      "total_points": 106,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6505,6 +6509,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8706526933": {
+          "date": "2026-02-25 22:06 UTC",
+          "hero": "Dragon Knight",
+          "kda": "3/14/2",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 4158,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -10839,7 +10860,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 81,
+      "total_points": 93,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -11667,6 +11688,48 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8706552397": {
+          "date": "2026-02-25 22:45 UTC",
+          "hero": "Sniper",
+          "kda": "19/7/9",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 38514,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8706452315": {
+          "date": "2026-02-25 20:32 UTC",
+          "hero": "Muerta",
+          "kda": "16/8/17",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 54402,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -19234,6 +19297,58 @@
     ],
     "8706502650": [],
     "8706455028": [],
-    "8706455843": []
+    "8706455843": [],
+    "8706526933": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8706526933,
+        "hero": "Dragon Knight",
+        "kda": "3/14/2",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-25T22:06:07+00:00"
+      }
+    ],
+    "8706552397": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8706552397,
+        "hero": "Sniper",
+        "kda": "19/7/9",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-25T22:45:56+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8706552397,
+        "hero": "Sniper",
+        "kda": "19/7/9",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-25T22:45:56+00:00"
+      }
+    ],
+    "8706523979": [],
+    "8706452315": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8706452315,
+        "hero": "Muerta",
+        "kda": "16/8/17",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-25T20:32:22+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8706452315,
+        "hero": "Muerta",
+        "kda": "16/8/17",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-25T20:32:22+00:00"
+      }
+    ]
   }
 }
