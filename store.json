@@ -936,7 +936,9 @@
     "8706178101": true,
     "8706130216": true,
     "8706314328": true,
-    "8706314101": true
+    "8706314101": true,
+    "8706394920": true,
+    "8706374116": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2650,7 +2652,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -190,
+      "total_points": -193,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4491,6 +4493,23 @@
             "Sssmookin"
           ],
           "damage": 12153,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8706374116": {
+          "date": "2026-02-25 19:17 UTC",
+          "hero": "Winter Wyvern",
+          "kda": "7/19/18",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 43374,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -8706,7 +8725,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 92,
+      "total_points": 89,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -10136,6 +10155,24 @@
               "points": 5
             }
           ]
+        },
+        "8706394920": {
+          "date": "2026-02-25 19:36 UTC",
+          "hero": "Faceless Void",
+          "kda": "2/8/5",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 7890,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -10799,7 +10836,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 84,
+      "total_points": 81,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -11609,6 +11646,24 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8706394920": {
+          "date": "2026-02-25 19:36 UTC",
+          "hero": "Zeus",
+          "kda": "4/9/4",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Matt",
+            "KingySmurf"
+          ],
+          "damage": 27677,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -19141,6 +19196,37 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-25T18:26:38+00:00"
+      }
+    ],
+    "8706394920": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8706394920,
+        "hero": "Faceless Void",
+        "kda": "2/8/5",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-25T19:36:02+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8706394920,
+        "hero": "Zeus",
+        "kda": "4/9/4",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-25T19:36:02+00:00"
+      }
+    ],
+    "8706374116": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8706374116,
+        "hero": "Winter Wyvern",
+        "kda": "7/19/18",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-25T19:17:32+00:00"
       }
     ]
   }
