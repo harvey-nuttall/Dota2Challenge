@@ -928,7 +928,8 @@
     "8705467116": true,
     "8705437208": true,
     "8705498705": true,
-    "8705665710": true
+    "8705665710": true,
+    "8705712788": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -7585,7 +7586,7 @@
     },
     "246425616": {
       "name": "Bonzaro",
-      "total_points": 32,
+      "total_points": 33,
       "matches": {
         "8654250072": {
           "date": "2026-01-18 10:13 UTC",
@@ -8618,6 +8619,23 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8705712788": {
+          "date": "2026-02-25 10:46 UTC",
+          "hero": "Vengeful Spirit",
+          "kda": "4/15/40",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Bonzaro"
+          ],
+          "damage": 27558,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -18958,6 +18976,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-25T09:51:26+00:00"
+      }
+    ],
+    "8705712788": [
+      {
+        "steam_id": 246425616,
+        "match_id": 8705712788,
+        "hero": "Vengeful Spirit",
+        "kda": "4/15/40",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-25T10:46:06+00:00"
       }
     ]
   }
