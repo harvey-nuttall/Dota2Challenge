@@ -945,7 +945,9 @@
     "8706526933": true,
     "8706552397": true,
     "8706523979": true,
-    "8706452315": true
+    "8706452315": true,
+    "8706633028": true,
+    "8706588723": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -10860,7 +10862,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 93,
+      "total_points": 99,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -11722,6 +11724,27 @@
             "KingySmurf"
           ],
           "damage": 54402,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            },
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8706588723": {
+          "date": "2026-02-25 23:52 UTC",
+          "hero": "Outworld Destroyer",
+          "kda": "21/8/21",
+          "win": true,
+          "points": 6,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 86992,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -19348,6 +19371,27 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-25T20:32:22+00:00"
+      }
+    ],
+    "8706633028": [],
+    "8706588723": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8706588723,
+        "hero": "Outworld Destroyer",
+        "kda": "21/8/21",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-25T23:52:41+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8706588723,
+        "hero": "Outworld Destroyer",
+        "kda": "21/8/21",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-25T23:52:41+00:00"
       }
     ]
   }
