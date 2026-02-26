@@ -961,7 +961,10 @@
     "8707165038": true,
     "8707334573": true,
     "8707306053": true,
-    "8707388240": true
+    "8707388240": true,
+    "8707469356": true,
+    "8707510492": true,
+    "8707449477": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5546,7 +5549,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 106,
+      "total_points": 107,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6600,6 +6603,23 @@
               "points": -1
             }
           ]
+        },
+        "8707469356": {
+          "date": "2026-02-26 16:27 UTC",
+          "hero": "Lion",
+          "kda": "8/12/23",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 25623,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -7095,7 +7115,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -43,
+      "total_points": -64,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -7825,6 +7845,27 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8707449477": {
+          "date": "2026-02-26 16:13 UTC",
+          "hero": "Undying",
+          "kda": "0/10/22",
+          "win": false,
+          "points": -21,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 9929,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            },
+            {
+              "name": "The Spectator (0 Kills)",
+              "points": -20
             }
           ]
         }
@@ -19650,6 +19691,38 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-26T15:29:07+00:00"
+      }
+    ],
+    "8707469356": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8707469356,
+        "hero": "Lion",
+        "kda": "8/12/23",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-26T16:27:48+00:00"
+      }
+    ],
+    "8707510492": [],
+    "8707449477": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8707449477,
+        "hero": "Undying",
+        "kda": "0/10/22",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-26T16:13:23+00:00"
+      },
+      {
+        "steam_id": 85906178,
+        "match_id": 8707449477,
+        "hero": "Undying",
+        "kda": "0/10/22",
+        "name": "The Spectator (0 Kills)",
+        "points": -20,
+        "timestamp": "2026-02-26T16:13:23+00:00"
       }
     ]
   }
