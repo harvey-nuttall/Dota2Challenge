@@ -967,7 +967,8 @@
     "8707449477": true,
     "8707550575": true,
     "8707562279": true,
-    "8707621900": true
+    "8707621900": true,
+    "8707778453": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1573,7 +1574,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -427,
+      "total_points": -426,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2730,6 +2731,25 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8707778453": {
+          "date": "2026-02-26 20:53 UTC",
+          "hero": "Hoodwink",
+          "kda": "3/12/24",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Dreamer",
+            "Smithy"
+          ],
+          "damage": 13463,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -5552,7 +5572,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 112,
+      "total_points": 113,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6638,6 +6658,25 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8707778453": {
+          "date": "2026-02-26 20:53 UTC",
+          "hero": "Morphling",
+          "kda": "14/7/11",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Dreamer",
+            "Smithy"
+          ],
+          "damage": 39017,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -8950,7 +8989,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 89,
+      "total_points": 90,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -10396,6 +10435,25 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8707778453": {
+          "date": "2026-02-26 20:53 UTC",
+          "hero": "Legion Commander",
+          "kda": "8/5/22",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Matt",
+            "Dreamer",
+            "Smithy"
+          ],
+          "damage": 23764,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -19757,6 +19815,35 @@
       }
     ],
     "8707562279": [],
-    "8707621900": []
+    "8707621900": [],
+    "8707778453": [
+      {
+        "steam_id": 391287552,
+        "match_id": 8707778453,
+        "hero": "Legion Commander",
+        "kda": "8/5/22",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-26T20:53:03+00:00"
+      },
+      {
+        "steam_id": 367108642,
+        "match_id": 8707778453,
+        "hero": "Hoodwink",
+        "kda": "3/12/24",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-26T20:53:03+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8707778453,
+        "hero": "Morphling",
+        "kda": "14/7/11",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-26T20:53:03+00:00"
+      }
+    ]
   }
 }
