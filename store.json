@@ -958,7 +958,9 @@
     "8707113169": true,
     "8707040818": true,
     "8707263900": true,
-    "8707165038": true
+    "8707165038": true,
+    "8707334573": true,
+    "8707306053": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1564,7 +1566,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -424,
+      "total_points": -427,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2703,6 +2705,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -1
+            }
+          ]
+        },
+        "8707334573": {
+          "date": "2026-02-26 14:52 UTC",
+          "hero": "Hero 155",
+          "kda": "1/14/15",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf",
+            "Dreamer"
+          ],
+          "damage": 12554,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -10962,7 +10982,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 99,
+      "total_points": 104,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -11853,6 +11873,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8707334573": {
+          "date": "2026-02-26 14:52 UTC",
+          "hero": "Slark",
+          "kda": "16/12/10",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf",
+            "Dreamer"
+          ],
+          "damage": 35266,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -19563,6 +19601,27 @@
       }
     ],
     "8707263900": [],
-    "8707165038": []
+    "8707165038": [],
+    "8707334573": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8707334573,
+        "hero": "Slark",
+        "kda": "16/12/10",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-26T14:52:42+00:00"
+      },
+      {
+        "steam_id": 367108642,
+        "match_id": 8707334573,
+        "hero": "Hero 155",
+        "kda": "1/14/15",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-26T14:52:42+00:00"
+      }
+    ],
+    "8707306053": []
   }
 }
