@@ -954,7 +954,9 @@
     "8706743101": true,
     "8706765105": true,
     "8706906878": true,
-    "8706979649": true
+    "8706979649": true,
+    "8707113169": true,
+    "8707040818": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -1560,7 +1562,7 @@
     },
     "367108642": {
       "name": "Dreamer",
-      "total_points": -400,
+      "total_points": -424,
       "matches": {
         "8652567177": {
           "date": "2026-01-17 08:56 UTC",
@@ -2661,6 +2663,44 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8707113169": {
+          "date": "2026-02-26 12:23 UTC",
+          "hero": "Hero 155",
+          "kda": "0/13/3",
+          "win": false,
+          "points": -23,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 14066,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "The Spectator (0 Kills)",
+              "points": -20
+            }
+          ]
+        },
+        "8707040818": {
+          "date": "2026-02-26 11:21 UTC",
+          "hero": "Spirit Breaker",
+          "kda": "4/17/17",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Dreamer"
+          ],
+          "damage": 15069,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -19487,6 +19527,37 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-26T10:16:27+00:00"
+      }
+    ],
+    "8707113169": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8707113169,
+        "hero": "Hero 155",
+        "kda": "0/13/3",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-26T12:23:11+00:00"
+      },
+      {
+        "steam_id": 367108642,
+        "match_id": 8707113169,
+        "hero": "Hero 155",
+        "kda": "0/13/3",
+        "name": "The Spectator (0 Kills)",
+        "points": -20,
+        "timestamp": "2026-02-26T12:23:11+00:00"
+      }
+    ],
+    "8707040818": [
+      {
+        "steam_id": 367108642,
+        "match_id": 8707040818,
+        "hero": "Spirit Breaker",
+        "kda": "4/17/17",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-26T11:21:12+00:00"
       }
     ]
   }
