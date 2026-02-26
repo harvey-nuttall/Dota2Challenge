@@ -964,7 +964,9 @@
     "8707388240": true,
     "8707469356": true,
     "8707510492": true,
-    "8707449477": true
+    "8707449477": true,
+    "8707550575": true,
+    "8707562279": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5549,7 +5551,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 107,
+      "total_points": 112,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6618,6 +6620,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8707550575": {
+          "date": "2026-02-26 17:30 UTC",
+          "hero": "Void Spirit",
+          "kda": "20/7/18",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 44536,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -19724,6 +19743,18 @@
         "points": -20,
         "timestamp": "2026-02-26T16:13:23+00:00"
       }
-    ]
+    ],
+    "8707550575": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8707550575,
+        "hero": "Void Spirit",
+        "kda": "20/7/18",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-26T17:30:15+00:00"
+      }
+    ],
+    "8707562279": []
   }
 }
