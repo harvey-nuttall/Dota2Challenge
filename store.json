@@ -953,7 +953,8 @@
     "8706651910": true,
     "8706743101": true,
     "8706765105": true,
-    "8706906878": true
+    "8706906878": true,
+    "8706979649": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -7031,7 +7032,7 @@
     },
     "85906178": {
       "name": "I.C.B.M",
-      "total_points": -41,
+      "total_points": -44,
       "matches": {
         "8653190404": {
           "date": "2026-01-17 16:20 UTC",
@@ -7723,6 +7724,23 @@
             "I.C.B.M"
           ],
           "damage": 6431,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8706979649": {
+          "date": "2026-02-26 10:16 UTC",
+          "hero": "Witch Doctor",
+          "kda": "9/12/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "I.C.B.M"
+          ],
+          "damage": 14228,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -19459,6 +19477,17 @@
         "timestamp": "2026-02-26T05:18:21+00:00"
       }
     ],
-    "8706906878": []
+    "8706906878": [],
+    "8706979649": [
+      {
+        "steam_id": 85906178,
+        "match_id": 8706979649,
+        "hero": "Witch Doctor",
+        "kda": "9/12/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-26T10:16:27+00:00"
+      }
+    ]
   }
 }
