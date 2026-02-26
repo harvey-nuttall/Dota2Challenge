@@ -968,7 +968,9 @@
     "8707550575": true,
     "8707562279": true,
     "8707621900": true,
-    "8707778453": true
+    "8707778453": true,
+    "8707792105": true,
+    "8707815124": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4797,7 +4799,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -49,
+      "total_points": -44,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5565,6 +5567,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8707792105": {
+          "date": "2026-02-26 21:08 UTC",
+          "hero": "Witch Doctor",
+          "kda": "16/18/35",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Pet poo bum bum boy",
+            "Big D Digby"
+          ],
+          "damage": 51072,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -19844,6 +19864,18 @@
         "points": 1,
         "timestamp": "2026-02-26T20:53:03+00:00"
       }
-    ]
+    ],
+    "8707792105": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8707792105,
+        "hero": "Witch Doctor",
+        "kda": "16/18/35",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-26T21:08:53+00:00"
+      }
+    ],
+    "8707815124": []
   }
 }
