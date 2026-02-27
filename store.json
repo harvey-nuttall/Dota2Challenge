@@ -994,7 +994,8 @@
     "8708481300": true,
     "8708512294": true,
     "8709107996": true,
-    "8709153143": true
+    "8709153143": true,
+    "8709190168": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5686,7 +5687,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 118,
+      "total_points": 123,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6806,6 +6807,24 @@
             "Matt"
           ],
           "damage": 35565,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8709190168": {
+          "date": "2026-02-27 22:01 UTC",
+          "hero": "Shadow Fiend",
+          "kda": "17/7/13",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby"
+          ],
+          "damage": 47265,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -20143,6 +20162,17 @@
         "name": "AFK Jungler Syndrome",
         "points": -3,
         "timestamp": "2026-02-27T21:22:30+00:00"
+      }
+    ],
+    "8709190168": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8709190168,
+        "hero": "Shadow Fiend",
+        "kda": "17/7/13",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-27T22:01:58+00:00"
       }
     ]
   }
