@@ -971,7 +971,12 @@
     "8707778453": true,
     "8707792105": true,
     "8707815124": true,
-    "8707827990": true
+    "8707827990": true,
+    "8707874752": true,
+    "8707841866": true,
+    "8707944337": true,
+    "8707920632": true,
+    "8707889645": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5593,7 +5598,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 113,
+      "total_points": 118,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6698,6 +6703,25 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8707874752": {
+          "date": "2026-02-26 23:05 UTC",
+          "hero": "Templar Assassin",
+          "kda": "16/4/11",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy",
+            "Dreamer",
+            "Matt"
+          ],
+          "damage": 35565,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -11140,7 +11164,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 104,
+      "total_points": 101,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -12049,6 +12073,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8707889645": {
+          "date": "2026-02-26 23:33 UTC",
+          "hero": "Magnus",
+          "kda": "3/12/8",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 11632,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -19878,6 +19919,31 @@
       }
     ],
     "8707815124": [],
-    "8707827990": []
+    "8707827990": [],
+    "8707874752": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8707874752,
+        "hero": "Templar Assassin",
+        "kda": "16/4/11",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-26T23:05:53+00:00"
+      }
+    ],
+    "8707841866": [],
+    "8707944337": [],
+    "8707920632": [],
+    "8707889645": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8707889645,
+        "hero": "Magnus",
+        "kda": "3/12/8",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-26T23:33:14+00:00"
+      }
+    ]
   }
 }
