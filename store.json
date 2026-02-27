@@ -979,7 +979,12 @@
     "8707889645": true,
     "8708007436": true,
     "8707968583": true,
-    "8708041222": true
+    "8708041222": true,
+    "8708090563": true,
+    "8708061956": true,
+    "8708107031": true,
+    "8708076989": true,
+    "8708051882": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -11184,7 +11189,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 101,
+      "total_points": 103,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -12106,6 +12111,40 @@
             "KingySmurf"
           ],
           "damage": 11632,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
+        },
+        "8708076989": {
+          "date": "2026-02-27 05:23 UTC",
+          "hero": "Clinkz",
+          "kda": "24/2/8",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 40436,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8708051882": {
+          "date": "2026-02-27 04:40 UTC",
+          "hero": "Night Stalker",
+          "kda": "4/12/11",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 17140,
           "challenges": [
             {
               "name": "AFK Jungler Syndrome",
@@ -19976,6 +20015,31 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-27T04:22:03+00:00"
+      }
+    ],
+    "8708090563": [],
+    "8708061956": [],
+    "8708107031": [],
+    "8708076989": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8708076989,
+        "hero": "Clinkz",
+        "kda": "24/2/8",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-27T05:23:18+00:00"
+      }
+    ],
+    "8708051882": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8708051882,
+        "hero": "Night Stalker",
+        "kda": "4/12/11",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-27T04:40:18+00:00"
       }
     ]
   }
