@@ -990,7 +990,9 @@
     "8708234546": true,
     "8708416825": true,
     "8708358176": true,
-    "8708358572": true
+    "8708358572": true,
+    "8708481300": true,
+    "8708512294": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2779,7 +2781,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -191,
+      "total_points": -190,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4671,6 +4673,23 @@
             "Sssmookin"
           ],
           "damage": 17352,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
+            }
+          ]
+        },
+        "8708512294": {
+          "date": "2026-02-27 13:25 UTC",
+          "hero": "Dazzle",
+          "kda": "2/4/9",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 5529,
           "challenges": [
             {
               "name": "Work Smarter, Not Harder: Efficiency",
@@ -20079,6 +20098,18 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-27T11:26:25+00:00"
+      }
+    ],
+    "8708481300": [],
+    "8708512294": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8708512294,
+        "hero": "Dazzle",
+        "kda": "2/4/9",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-27T13:25:09+00:00"
       }
     ]
   }
