@@ -995,7 +995,8 @@
     "8708512294": true,
     "8709107996": true,
     "8709153143": true,
-    "8709190168": true
+    "8709190168": true,
+    "8709227407": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4875,7 +4876,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -47,
+      "total_points": -58,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5680,6 +5681,28 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8709227407": {
+          "date": "2026-02-27 22:47 UTC",
+          "hero": "Pudge",
+          "kda": "7/20/22",
+          "win": false,
+          "points": -11,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby"
+          ],
+          "damage": 22119,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
+            },
+            {
+              "name": "The Walking Ward: 20+ Deaths",
+              "points": -10
             }
           ]
         }
@@ -20173,6 +20196,26 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-27T22:01:58+00:00"
+      }
+    ],
+    "8709227407": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8709227407,
+        "hero": "Pudge",
+        "kda": "7/20/22",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-27T22:47:53+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8709227407,
+        "hero": "Pudge",
+        "kda": "7/20/22",
+        "name": "The Walking Ward: 20+ Deaths",
+        "points": -10,
+        "timestamp": "2026-02-27T22:47:53+00:00"
       }
     ]
   }
