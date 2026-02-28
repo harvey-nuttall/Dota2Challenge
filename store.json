@@ -1009,7 +1009,8 @@
     "8710327007": true,
     "8710437032": true,
     "8710503178": true,
-    "8710568444": true
+    "8710568444": true,
+    "8710646888": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5777,7 +5778,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 133,
+      "total_points": 110,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6954,6 +6955,28 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8710646888": {
+          "date": "2026-02-28 21:05 UTC",
+          "hero": "Slark",
+          "kda": "0/10/4",
+          "win": false,
+          "points": -23,
+          "friends_in_match": [
+            "Smithy",
+            "Matt"
+          ],
+          "damage": 5620,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            },
+            {
+              "name": "The Spectator (0 Kills)",
+              "points": -20
             }
           ]
         }
@@ -9266,7 +9289,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 87,
+      "total_points": 86,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -10750,6 +10773,24 @@
             {
               "name": "AFK Jungler Syndrome",
               "points": -3
+            }
+          ]
+        },
+        "8710646888": {
+          "date": "2026-02-28 21:05 UTC",
+          "hero": "Timbersaw",
+          "kda": "3/7/3",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Smithy",
+            "Matt"
+          ],
+          "damage": 12481,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -20545,6 +20586,35 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-28T19:58:43+00:00"
+      }
+    ],
+    "8710646888": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8710646888,
+        "hero": "Slark",
+        "kda": "0/10/4",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-28T21:05:24+00:00"
+      },
+      {
+        "steam_id": 191496009,
+        "match_id": 8710646888,
+        "hero": "Slark",
+        "kda": "0/10/4",
+        "name": "The Spectator (0 Kills)",
+        "points": -20,
+        "timestamp": "2026-02-28T21:05:24+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8710646888,
+        "hero": "Timbersaw",
+        "kda": "3/7/3",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-28T21:05:24+00:00"
       }
     ]
   }
