@@ -996,7 +996,8 @@
     "8709107996": true,
     "8709153143": true,
     "8709190168": true,
-    "8709227407": true
+    "8709227407": true,
+    "8709264529": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4876,7 +4877,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -58,
+      "total_points": -68,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5705,12 +5706,30 @@
               "points": -10
             }
           ]
+        },
+        "8709264529": {
+          "date": "2026-02-27 23:43 UTC",
+          "hero": "Witch Doctor",
+          "kda": "10/20/26",
+          "win": false,
+          "points": -10,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby"
+          ],
+          "damage": 44423,
+          "challenges": [
+            {
+              "name": "The Walking Ward: 20+ Deaths",
+              "points": -10
+            }
+          ]
         }
       }
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 123,
+      "total_points": 128,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6848,6 +6867,24 @@
             "Big D Digby"
           ],
           "damage": 47265,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8709264529": {
+          "date": "2026-02-27 23:43 UTC",
+          "hero": "Puck",
+          "kda": "22/9/18",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy",
+            "Big D Digby"
+          ],
+          "damage": 55810,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -20216,6 +20253,26 @@
         "name": "The Walking Ward: 20+ Deaths",
         "points": -10,
         "timestamp": "2026-02-27T22:47:53+00:00"
+      }
+    ],
+    "8709264529": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8709264529,
+        "hero": "Puck",
+        "kda": "22/9/18",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-27T23:43:23+00:00"
+      },
+      {
+        "steam_id": 254540347,
+        "match_id": 8709264529,
+        "hero": "Witch Doctor",
+        "kda": "10/20/26",
+        "name": "The Walking Ward: 20+ Deaths",
+        "points": -10,
+        "timestamp": "2026-02-27T23:43:23+00:00"
       }
     ]
   }
