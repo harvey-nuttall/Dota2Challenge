@@ -1008,7 +1008,8 @@
     "8710206136": true,
     "8710327007": true,
     "8710437032": true,
-    "8710503178": true
+    "8710503178": true,
+    "8710568444": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -5776,7 +5777,7 @@
     },
     "191496009": {
       "name": "Smithy",
-      "total_points": 128,
+      "total_points": 133,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -6932,6 +6933,23 @@
             "Big D Digby"
           ],
           "damage": 55810,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
+            }
+          ]
+        },
+        "8710568444": {
+          "date": "2026-02-28 19:58 UTC",
+          "hero": "Outworld Destroyer",
+          "kda": "18/7/11",
+          "win": false,
+          "points": 5,
+          "friends_in_match": [
+            "Smithy"
+          ],
+          "damage": 66524,
           "challenges": [
             {
               "name": "Pudge's Wet Dream",
@@ -20517,6 +20535,17 @@
         "timestamp": "2026-02-28T18:18:54+00:00"
       }
     ],
-    "8710503178": []
+    "8710503178": [],
+    "8710568444": [
+      {
+        "steam_id": 191496009,
+        "match_id": 8710568444,
+        "hero": "Outworld Destroyer",
+        "kda": "18/7/11",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-28T19:58:43+00:00"
+      }
+    ]
   }
 }
