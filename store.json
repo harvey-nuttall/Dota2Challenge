@@ -1006,7 +1006,8 @@
     "8710042504": true,
     "8710121217": true,
     "8710206136": true,
-    "8710327007": true
+    "8710327007": true,
+    "8710437032": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -4903,7 +4904,7 @@
     },
     "254540347": {
       "name": "Big D Digby",
-      "total_points": -68,
+      "total_points": -69,
       "matches": {
         "8653811238": {
           "date": "2026-01-18 02:04 UTC",
@@ -5748,6 +5749,25 @@
             {
               "name": "The Walking Ward: 20+ Deaths",
               "points": -10
+            }
+          ]
+        },
+        "8710437032": {
+          "date": "2026-02-28 18:18 UTC",
+          "hero": "Axe",
+          "kda": "4/13/14",
+          "win": false,
+          "points": -1,
+          "friends_in_match": [
+            "Big D Digby",
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 18782,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -1
             }
           ]
         }
@@ -9227,7 +9247,7 @@
     },
     "391287552": {
       "name": "Matt",
-      "total_points": 90,
+      "total_points": 87,
       "matches": {
         "8651211871": {
           "date": "2026-01-16 10:38 UTC",
@@ -10694,6 +10714,25 @@
               "points": 1
             }
           ]
+        },
+        "8710437032": {
+          "date": "2026-02-28 18:18 UTC",
+          "hero": "Weaver",
+          "kda": "5/10/10",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Big D Digby",
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 21760,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
+            }
+          ]
         }
       }
     },
@@ -11357,7 +11396,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 119,
+      "total_points": 116,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -12386,6 +12425,25 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8710437032": {
+          "date": "2026-02-28 18:18 UTC",
+          "hero": "Nature's Prophet",
+          "kda": "5/13/13",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Big D Digby",
+            "KingySmurf",
+            "Matt"
+          ],
+          "damage": 30968,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -20427,6 +20485,35 @@
         "name": "Pudge's Wet Dream",
         "points": 5,
         "timestamp": "2026-02-28T17:03:24+00:00"
+      }
+    ],
+    "8710437032": [
+      {
+        "steam_id": 254540347,
+        "match_id": 8710437032,
+        "hero": "Axe",
+        "kda": "4/13/14",
+        "name": "AFK Jungler Syndrome",
+        "points": -1,
+        "timestamp": "2026-02-28T18:18:54+00:00"
+      },
+      {
+        "steam_id": 140345151,
+        "match_id": 8710437032,
+        "hero": "Nature's Prophet",
+        "kda": "5/13/13",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-28T18:18:54+00:00"
+      },
+      {
+        "steam_id": 391287552,
+        "match_id": 8710437032,
+        "hero": "Weaver",
+        "kda": "5/10/10",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-28T18:18:54+00:00"
       }
     ]
   }
