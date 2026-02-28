@@ -1005,7 +1005,8 @@
     "8709923422": true,
     "8710042504": true,
     "8710121217": true,
-    "8710206136": true
+    "8710206136": true,
+    "8710327007": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -11356,7 +11357,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 114,
+      "total_points": 119,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -12367,6 +12368,24 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8710327007": {
+          "date": "2026-02-28 17:03 UTC",
+          "hero": "Nyx Assassin",
+          "kda": "31/4/14",
+          "win": true,
+          "points": 5,
+          "friends_in_match": [
+            "KingySmurf",
+            "Big D Digby"
+          ],
+          "damage": 50920,
+          "challenges": [
+            {
+              "name": "Pudge's Wet Dream",
+              "points": 5
             }
           ]
         }
@@ -20397,6 +20416,17 @@
         "name": "Work Smarter, Not Harder: Efficiency",
         "points": 1,
         "timestamp": "2026-02-28T15:43:34+00:00"
+      }
+    ],
+    "8710327007": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8710327007,
+        "hero": "Nyx Assassin",
+        "kda": "31/4/14",
+        "name": "Pudge's Wet Dream",
+        "points": 5,
+        "timestamp": "2026-02-28T17:03:24+00:00"
       }
     ]
   }
