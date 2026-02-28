@@ -1,8 +1,8 @@
 KING-SASSLY LEADERBOARD
 ========================================
 
- 1. KingySmurf           +116 pts
- 2. Smithy               +115 pts
+ 1. Smithy               +121 pts
+ 2. KingySmurf           +116 pts
  3. Matt                 +86 pts
  4. Thom                 +72 pts
  5. Bonzaro              +33 pts
@@ -12,6 +12,6 @@ KING-SASSLY LEADERBOARD
  9. Irishman             -1 pts
 10. Sheep                -20 pts
 11. I.C.B.M              -64 pts
-12. Big D Digby          -69 pts
+12. Big D Digby          -68 pts
 13. Sssmookin            -196 pts
 14. Dreamer              -426 pts
