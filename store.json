@@ -998,7 +998,8 @@
     "8709190168": true,
     "8709227407": true,
     "8709264529": true,
-    "8709388151": true
+    "8709388151": true,
+    "8709489252": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -2787,7 +2788,7 @@
     },
     "211160675": {
       "name": "Sssmookin",
-      "total_points": -190,
+      "total_points": -193,
       "matches": {
         "8653017071": {
           "date": "2026-01-17 14:35 UTC",
@@ -4700,6 +4701,23 @@
             {
               "name": "Work Smarter, Not Harder: Efficiency",
               "points": 1
+            }
+          ]
+        },
+        "8709489252": {
+          "date": "2026-02-28 05:47 UTC",
+          "hero": "Dazzle",
+          "kda": "5/12/22",
+          "win": false,
+          "points": -3,
+          "friends_in_match": [
+            "Sssmookin"
+          ],
+          "damage": 19004,
+          "challenges": [
+            {
+              "name": "AFK Jungler Syndrome",
+              "points": -3
             }
           ]
         }
@@ -20276,6 +20294,17 @@
         "timestamp": "2026-02-27T23:43:23+00:00"
       }
     ],
-    "8709388151": []
+    "8709388151": [],
+    "8709489252": [
+      {
+        "steam_id": 211160675,
+        "match_id": 8709489252,
+        "hero": "Dazzle",
+        "kda": "5/12/22",
+        "name": "AFK Jungler Syndrome",
+        "points": -3,
+        "timestamp": "2026-02-28T05:47:33+00:00"
+      }
+    ]
   }
 }
