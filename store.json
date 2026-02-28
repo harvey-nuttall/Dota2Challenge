@@ -1004,7 +1004,8 @@
     "8709877323": true,
     "8709923422": true,
     "8710042504": true,
-    "8710121217": true
+    "8710121217": true,
+    "8710206136": true
   },
   "unparsed_matches": {},
   "leaderboard": {
@@ -11355,7 +11356,7 @@
     },
     "140345151": {
       "name": "KingySmurf",
-      "total_points": 113,
+      "total_points": 114,
       "matches": {
         "8680682469": {
           "date": "2026-02-07 00:27 UTC",
@@ -12349,6 +12350,23 @@
             {
               "name": "Pudge's Wet Dream",
               "points": 5
+            }
+          ]
+        },
+        "8710206136": {
+          "date": "2026-02-28 15:43 UTC",
+          "hero": "Nature's Prophet",
+          "kda": "11/7/10",
+          "win": true,
+          "points": 1,
+          "friends_in_match": [
+            "KingySmurf"
+          ],
+          "damage": 22444,
+          "challenges": [
+            {
+              "name": "Work Smarter, Not Harder: Efficiency",
+              "points": 1
             }
           ]
         }
@@ -20369,6 +20387,17 @@
     ],
     "8709923422": [],
     "8710042504": [],
-    "8710121217": []
+    "8710121217": [],
+    "8710206136": [
+      {
+        "steam_id": 140345151,
+        "match_id": 8710206136,
+        "hero": "Nature's Prophet",
+        "kda": "11/7/10",
+        "name": "Work Smarter, Not Harder: Efficiency",
+        "points": 1,
+        "timestamp": "2026-02-28T15:43:34+00:00"
+      }
+    ]
   }
 }
